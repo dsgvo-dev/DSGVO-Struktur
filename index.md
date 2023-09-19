@@ -1,0 +1,104 @@
+# Datenverarbeitung (DV)
+
+## DV.1 - [Verantwortliche](Datenverarbeitung/Verantwortliche.md)
+
+- DV 1.1 - [Gemeinsame Verantwortung](Datenverarbeitung/Gemeinsame-Verantwortung.md)
+- DV 1.2 - [Auftragsverarbeitung](Datenverarbeitung/Auftragsverarbeitung.md)
+
+## DV.2 - [Betroffene](Datenverarbeitung/Betroffene.md)
+
+## DV.3 - [Dritte](Datenverarbeitung/Dritte.md)
+
+## DV.4 - [Personenbezogene Daten](Datenverarbeitung/Personenbezogene-Daten.md)
+
+- Art, Umfang, Umstände und Zweck der Verarbeitung 
+  - \[\[Art der Verarbeitung\]\] 
+    - \[\[Umfang der Verarbeitung\]\]
+    - \[\[Umstände der Verarbeitung\]\]
+    - \[\[Zweck der Verarbeitung\]\]
+- [Schutzstufe](Datenverarbeitung/Schutzstufe.md)
+- [Risiko](Datenverarbeitung/Risiko.md)
+
+## DV.5 - [Verarbeitungstätigkeit](Datenverarbeitung/verarbeitungstaetigkeit.md)
+
+- DV.5.1 - [Datenerhebung](Datenverarbeitung/datenerhebung.md)
+- DV.5.2 - [Datenübermittlung](Datenverarbeitung/datenuebermittlung.md)
+- DV.5.X - [Löschung](Datenverarbeitung/loeschung.md)
+
+# Grundsätze (G)
+
+- G.1 - [Vertraulichkeit](Grundsaetze-Datenverarbeitung/Vertraulichkeit.md) 
+- G.2 - [Verfügbarkeit](Grundsaetze-Datenverarbeitung/Verfuegbarkeit.md) 
+- G.3 - [Integrität](Grundsaetze-Datenverarbeitung/Integritaet.md) 
+- G.4 - [Belastbarkeit](Grundsaetze-Datenverarbeitung/Belastbarkeit.md) 
+- G.5 - [Rechtmäßigkei](Grundsaetze-Datenverarbeitung/Rechtmaessigkeit.md) 
+- G.6 - [Zweckbindung](Grundsaetze-Datenverarbeitung/Zweckbindung.md) 
+- G.7 - [Erforderlichkeit](Grundsaetze-Datenverarbeitung/Erforderlichkeit.md) 
+- G.8 - [Datenminimierung](Grundsaetze-Datenverarbeitung/Datenminimierung.md) 
+- G.9 - [Speicherbegrenzung](Grundsaetze-Datenverarbeitung/Speicherbegrenzung.md) 
+- G.10 - [Richtigkeit](Grundsaetze-Datenverarbeitung/Richtigkeit.md) 
+- G.11 - [Transparenz](Grundsaetze-Datenverarbeitung/Transparenz.md) 
+- G.11 - [Rechenschaftspflicht](Grundsaetze-Datenverarbeitung/Rechenschaftspflicht.md) 
+- G.X - [Direkterhebung](Grundsaetze-Datenverarbeitung/Direkterhebung.md) 
+- G.X - [Privacy by design und dafault](Grundsaetze-Datenverarbeitung/Privacybydesignanddefault/index.de) 
+- G.X.1 - [Privacy by design](Grundsaetze-Datenverarbeitung/Privacybydesign.md)
+- G.X.2 - [Privacy by default](Grundsaetze-Datenverarbeitung/Privacybydefault.md)
+
+# Organisation (O)
+
+- O.1. [Aufbauorganisation](Organisation/Aufbauorganiation.md) 
+- O.P. - [Prozesse](Organisation/Prozesse.md) 
+  - O.P.X - [Widerspruch](Organisation/Prozess-Widerspruch.md)
+  - O.P.X - [Allgemeines Datenschutzmanagement](allgemeines-datenschutzmanagement/index.de) 
+    - [Personal](Organisation/Prozess-Personalmanagement.md) 
+      - [Belehrung](Organisation/Prozess-Belehrung.md) 
+        - Verpflichtung
+        - Onboarding
+        - Offboarding
+      - [Schulung](Organisation/Prozess-Schulung.md)
+  - O.P.X - [Auskunft](Organisation/Prozess-Auskunft.md)
+  - O.P.X - [Berichtigung](Organisation/Prozess-Berichtigung.md)
+  - O.P.X - [Löschung](Organisation/Prozess-Loeschung.md)
+  - O.P.X - [Einschränkung](Organisation/Prozess-Einschraenkung.md)
+  - O.P.X - [Widerspruch](Organisation/Prozess-Widerspruch.md)
+  - O.P.X - [Data Breach](Organisation/Prozess-Data-Breach.md)
+  - O.P.X - [LfD-Verfahren](Organisation/Prozess-LfD-Verfahren.md)
+  - O.P.X - [Unterlassung](Organisation/Prozess-Unterlassung.md)
+  - O.P.X - [Schadensersatz](Organisation/Prozess-Schadensersatz.md)
+  - O.P.X - [Prozess - Erstellung des Verzeichnisses der Verarbeitungstätigketen](Organisation/Prozess-VVT-Erstellung.md)
+  - O.P.X - [Prozess - Erstellung der Risikoanalyse](Organisation/Prozess-Risikoanalyse.md)
+  - O.P.X - [Prozess - Erstellung der Datenschutz-Folgenabschätzung](Organisation/Prozess-DSFA.md)
+  - O.P.X - [Prozess - Einführung eines IT-Verfahrens](Organisation/Prozess-Einfuehrung-IT-Verfahren.md)
+- O.X - [Dokumentation](Organisation/Dokumentation.md) 
+- O.3 - [[TOM]](Organisation/TOM.md) 
+  - O.2.1 - [Informationspflichten](Organisation/Informationspflichten.md)
+  - O.2.2 - [Datenschutzerklärung](Organisation/Datenschutzerklaerungen.md)
+  - O.2.X - [Pseudonymisierung](Organisation/Pseudonymisierung.md) 
+    - O.2.1.X - XX
+- O.4 - [Verträge](Organisation/Vertraege.md) 
+  - O.4.1 - [Dienstleistungsvertrag](Organisation/Dienstleistungsvertrag.md)
+  - 0\.4.2 - [Kooperationsvertrag](Organisation/Kooperationsvertrag.md)
+  - 0\.4.3 - [EVB](Organisation/EVB-IT.md)
+  - O.4.4 - \[\[Vertrag zur Auftragsverarbeitung\]\] (ggf.)
+  - O.4.5 - \[\[Vertrag zur Gemeinsamen Datenverarbeitung\]\] (ggf)
+- O.5 - [Dienstanweisung](Organisation/dienstanweisungen.md) 
+  - O.5.1 - [Dienstanweisung Datenschutz](organisation/dienstanweisung-datenschutz.md)
+  - O.5.2 - [Spezielle Dienstanweisungen](Organisation/spezielle-dienstanweisungen.md)
+- O.6 - [Dienstvereinbarung](Organisation/dienstvereinbarungen.md) 
+  - O.5.1 - [Rahmendienstvereinbarung EDV](Organisation/rahmendienstvereinbarung-edv.md)
+  - O.5.2 - [Spezielle Dienstvereinbarungen](Organisation/spezielle-dienstvereinbarungen.md)
+- O.7 - [Rollenbeschreibungen](Organisation/Rollenbeschreibungen.md) 
+  - [Hauptverantwortliche](Organisation/Rolle-Hauptverantwortliche.md)
+  - [Fachverantwortliche](Organisation/rolle-Fachverantwortliche.md)
+  - [IT-Abteilung](Organisation/Rolle-IT-Abteilung.md)
+  - [ISB](Organisation/Rolle-ISB.md)
+  - [Organisations-Abteilung](Organisation/Rolle-Organisationsabteilung.md)
+  - [Rolle - Personalabteilung](Organisation/Rolle-Personalabteilung.md)
+  - [Personalrat](Organisation/Rolle-Personalrat.md)
+  - [DSB](Organisation/Rolle-DSB.md)
+  - [DSK](Organisation/Rolle-DSK.md)
+
+# Anhänge
+
+- Z.1 - [Über](Anhaenge/Ueber.md) 
+- Z.2 - [Änderungen](Anhaenge/Aenderungen.md) 
