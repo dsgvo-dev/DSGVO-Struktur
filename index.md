@@ -2,8 +2,9 @@
 
 ## DV.1 - [Verantwortliche](Datenverarbeitung/Verantwortliche.md)
 
-- DV 1.1 - [Gemeinsame Verantwortung](Datenverarbeitung/Gemeinsame-Verantwortung.md)
-- DV 1.2 - [Auftragsverarbeitung](Datenverarbeitung/Auftragsverarbeitung.md)
+- DV 1.1 - [Alleinige-Verantwortung](Datenverarbeitung/Alleinige-Verantwortung.md)
+- DV 1.2 - [Gemeinsame Verantwortung](Datenverarbeitung/Gemeinsame-Verantwortung.md)
+- DV 1.3 - [Auftragsverarbeitung](Datenverarbeitung/Auftragsverarbeitung.md)
 
 ## DV.2 - [Betroffene](Datenverarbeitung/Betroffene.md)
 
