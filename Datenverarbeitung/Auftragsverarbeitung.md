@@ -4,8 +4,9 @@
 
 ### Grundsätze
 
-### Maßnahmen
+### Organisation
 - Über die Auftragsverarbeiter ist in der [Datenschutzerklärung](../Organisation/Datenschutzerklaerung.md) zu belehren.
+- Ein [Vertrag](../Organisation/Vertrag-Auftragsverarbeitung.md) über die Auftragsverarbeitung ist zu schließen.
 
 ### Prozesse
 

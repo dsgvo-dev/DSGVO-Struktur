@@ -78,10 +78,10 @@
     - O.2.1.X - XX
 - O.4 - [Verträge](Organisation/Vertraege.md) 
   - O.4.1 - [Dienstleistungsvertrag](Organisation/Dienstleistungsvertrag.md)
-  - 0\.4.2 - [Kooperationsvertrag](Organisation/Kooperationsvertrag.md)
-  - 0\.4.3 - [EVB](Organisation/EVB-IT.md)
+  - 0.4.2 - [Kooperationsvertrag](Organisation/Kooperationsvertrag.md)
+  - 0.4.3 - [EVB](Organisation/EVB-IT.md)
   - O.4.4 - \[\[Vertrag zur Auftragsverarbeitung\]\] (ggf.)
-  - O.4.5 - \[\[Vertrag zur Gemeinsamen Datenverarbeitung\]\] (ggf)
+  - O.4.5 - [Vertrag zur Gemeinsamen Datenverarbeitung](Organisation/Vertrag-Gemeinsame-Verantwortung.md)
 - O.5 - [Dienstanweisung](Organisation/dienstanweisungen.md) 
   - O.5.1 - [Dienstanweisung Datenschutz](organisation/dienstanweisung-datenschutz.md)
   - O.5.2 - [Spezielle Dienstanweisungen](Organisation/spezielle-dienstanweisungen.md)
