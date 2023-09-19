@@ -5,7 +5,7 @@
 ### Grundsätze
 
 ### Maßnahmen
-- Über die Auftragsverarbeiter ist in der [Datenschutzerklärung](Organisation/Datenschutzerklaerung.md) zu belehren.
+- Über die Auftragsverarbeiter ist in der [Datenschutzerklärung](../Organisation/Datenschutzerklaerung.md) zu belehren.
 
 ### Prozesse
 

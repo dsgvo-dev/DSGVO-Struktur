@@ -2,7 +2,7 @@
 
 ## Verbindungen
 ### Datenverarbeitung
-- Über die Dienstleister der [Auftragsverarbeitung](Datenverarbeitung/Auftragsverarbeitung.md) ist in der Datenschutzerklärung zu belehren.
+- Über die Dienstleister der [Auftragsverarbeitung](../Datenverarbeitung/Auftragsverarbeitung.md) ist in der Datenschutzerklärung zu belehren.
   
 ### Grundsätze
 ### Maßnahmen

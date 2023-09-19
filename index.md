@@ -72,7 +72,7 @@
 - O.X - [Dokumentation](Organisation/Dokumentation.md) 
 - O.3 - [[TOM]](Organisation/TOM.md) 
   - O.2.1 - [Informationspflichten](Organisation/Informationspflichten.md)
-  - O.2.2 - [Datenschutzerklärung](Organisation/Datenschutzerklaerungen.md)
+  - O.2.2 - [Datenschutzerklärung](Organisation/Datenschutzerklaerung.md)
   - O.2.X - [Pseudonymisierung](Organisation/Pseudonymisierung.md) 
     - O.2.1.X - XX
 - O.4 - [Verträge](Organisation/Vertraege.md) 
