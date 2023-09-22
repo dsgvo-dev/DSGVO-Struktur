@@ -2,7 +2,6 @@
 
 ## Verbindungen
 ### Datenverarbeitung
-- Die Löschung ist eine Form der [Datenverarbeitung](../Datenverarbeitung/Verarbeitung.md).
 ### Grundsätze
 ### Organisation
 ### Maßnahmen
@@ -11,9 +10,7 @@
 
 ## Dokumente
 ### Gesetze
-- Art. 17 DSGVO
 ### Urteile
 ### LfD Unterlagen
 ### Sonstige Unterlagen
-- Löschkonzepte
 ### BSI-Referenz
