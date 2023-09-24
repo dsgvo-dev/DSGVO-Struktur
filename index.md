@@ -20,11 +20,16 @@
 - [Schutzstufe](Datenverarbeitung/Schutzstufe.md)
 - [Risiko](Datenverarbeitung/Risiko.md)
 
-## DV.5 - [Verarbeitungstätigkeit](Datenverarbeitung/verarbeitungstaetigkeit.md)
+## DV.5 - [Verarbeitung](Datenverarbeitung/Verarbeitung.md)
 
-- DV.5.1 - [Datenerhebung](Datenverarbeitung/datenerhebung.md)
-- DV.5.2 - [Datenübermittlung](Datenverarbeitung/datenuebermittlung.md)
-- DV.5.X - [Löschung](Datenverarbeitung/loeschung.md)
+- DV.5.1 - [Datenerhebung](Datenverarbeitung/Erhebung.md)
+- DV.5.2 - [Datenübermittlung](Datenverarbeitung/Uebermittlung.md)
+- DV.5.X - [Einschränkung](Datenverarbeitung/Einschraenkung.md)
+- DV.5.X - [Löschung](Datenverarbeitung/Loeschung.md)
+
+## DV.6 - [Verarbeitungstätigkeit](Datenverarbeitung/Verarbeitungstaetigkeit.md)
+
+
 
 # Grundsätze (G)
 

@@ -14,6 +14,7 @@
 ## Dokumente
 ### Gesetze
 - Art. 4 Nr. 1 DSGVO
+- § 24 Nr. 1 NDSG
 ### Urteile
 - Dateisystem: Behördenakte ist Dateisystem; VG Gelsenkirchen, Urt. v. 27.04.2020; 20 K 6392/18, beck-online.de
 - Pseudonymsierung; Identfizierbarkeit: EuG, Urt. vom 26.04.2023, T‑557/20, https://curia.europa.eu/juris/document/document.jsf?text=&docid=272910&pageIndex=0&doclang=DE&mode=req&dir=&occ=first&part=1; siehe EuGH, https://curia.europa.eu/juris/document/document.jsf?text=&docid=276483&pageIndex=0&doclang=DE&mode=req&dir=&occ=first&part=1 

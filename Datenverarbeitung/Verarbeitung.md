@@ -13,6 +13,7 @@
 ## Dokumente
 ### Gesetze
 - Art. 4 Nr. 2 DSGVO
+- § 24 Nr. 2 NDSG
 ### Urteile
 ### LfD Unterlagen
 ### Sonstige Unterlagen
