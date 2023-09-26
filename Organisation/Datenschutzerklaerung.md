@@ -12,6 +12,8 @@
 
 ## Dokumente
 ### Gesetze
+- Artt. 12 ff. DSGVO
+- § 8 NDSG
 ### Urteile
 ### LfD Unterlagen
 ### Sonstige Unterlagen

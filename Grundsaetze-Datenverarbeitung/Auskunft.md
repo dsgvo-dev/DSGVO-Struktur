@@ -1,17 +1,18 @@
 ## Allgemeines
-- Das Recht der Betroffenen auf Einschränkung ist durch einen entsprechenden Prozess zu gewährleisten.
+- Das Recht der Betroffenen auf Auskunft ist durch einen entsprechenden Prozess zu gewährleisten.
 ## Verbindungen
 ### Datenverarbeitung
 ### Grundsätze
-- [Einschränkung](../Grundsaetze-Datenverarbeitung/Einschraenkung.md)
 ### Organisation
 ### Maßnahmen
 ### Prozesse
+- [Prozess Auskunft](../Organisation/Prozess-Auskunft.md)
 ### Rollen
 
 ## Dokumente
 ### Gesetze
-- Art. 18 DSGVO
+- Art. 15 DSGVO
+- § 9 NDSG
 ### Urteile
 ### LfD Unterlagen
 ### Sonstige Unterlagen

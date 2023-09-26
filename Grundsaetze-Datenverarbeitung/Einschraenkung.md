@@ -1,12 +1,12 @@
 ## Allgemeines
-- Das Recht der Betroffenen auf Einschränkung ist durch einen entsprechenden Prozess zu gewährleisten.
+- Das Recht der Betroffenen auf Auskunft ist durch einen entsprechenden Prozess zu gewährleisten.
 ## Verbindungen
 ### Datenverarbeitung
 ### Grundsätze
-- [Einschränkung](../Grundsaetze-Datenverarbeitung/Einschraenkung.md)
 ### Organisation
 ### Maßnahmen
 ### Prozesse
+- [Prozess Einschränkung](../Organisation/Prozess-Einschraenkung.md)
 ### Rollen
 
 ## Dokumente
