@@ -1,5 +1,5 @@
 ## Allgemeines
-- "Definition: Personenbezogene Daten müssen dem Zweck angemessen und erheblich sowie auf das für die Zwecke der Verarbeitung notwendige Maß beschränkt sein („Datenminimierung“)"
+
 ## Verbindungen
 ### Datenverarbeitung
 ### Grundsätze
@@ -10,7 +10,9 @@
 
 ## Dokumente
 ### Gesetze
-- Art. 5 Abs. 1 lit. c) DSGVO
+- Art. 5 Abs. 1 lit. a) DSGVO
+- Art. 6 DSGVO
+- EG 39 Satz 1 DSGVO
 ### Urteile
 ### LfD Unterlagen
 ### Sonstige Unterlagen
