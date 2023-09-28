@@ -12,11 +12,6 @@
 
 ## DV.4 - [Personenbezogene Daten](Datenverarbeitung/Personenbezogene-Daten.md)
 
-- Art, Umfang, Umstände und Zweck der Verarbeitung 
-  - \[\[Art der Verarbeitung\]\] 
-    - \[\[Umfang der Verarbeitung\]\]
-    - \[\[Umstände der Verarbeitung\]\]
-    - \[\[Zweck der Verarbeitung\]\]
 - [Schutzstufe](Datenverarbeitung/Schutzstufe.md)
 - [Risiko](Datenverarbeitung/Risiko.md)
 

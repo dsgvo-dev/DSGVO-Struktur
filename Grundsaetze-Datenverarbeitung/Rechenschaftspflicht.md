@@ -11,7 +11,12 @@
   - [Verträge](../Organisation/Vertraege.md).
 ### Datenverarbeitung
 ### Grundsätze
+- [Transparenz](../Grundsaetze-Datenverarbeitung/Transparenz.md)
 ### Organisation
+- [Verzeichnis der Verarbeitungstätigkeiten](../Organisation/Prozess-VVT-Erstellung.md)
+- [Dienstleistungsvertrag](../Organisation/Dienstleistungsvertrag.md)
+- [Vertrag zur Auftragsverarbeitung](../Organisation/Vertrag-Auftragsverarbeitung.md)
+- [Vertrag über die gemeinsame Datenverarbeitung](../Organisation/Vertrag-Gemeinsame-Verantwortung.md)
 ### Maßnahmen
 ### Prozesse
 ### Rollen
