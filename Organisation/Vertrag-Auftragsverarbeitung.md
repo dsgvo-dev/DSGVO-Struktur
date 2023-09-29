@@ -4,6 +4,8 @@
 ### Datenverarbeitung
 Im Fall der [Auftragsverarbeitung](../Datenverarbeitung/Auftragsverarbeitung.md) ist ein Vertrag nach Art. 28 DSGVO zu schließen. 
 ### Grundsätze
+### Organisation
+- [Technische und organisatorische Maßnahmen](../Organisation/TOM.md)
 ### Maßnahmen
 ### Prozesse
 ### Rollen
