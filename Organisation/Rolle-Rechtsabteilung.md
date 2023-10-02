@@ -1,9 +1,9 @@
-## Allgemeines
+## 1. Allgemeines
 
-## Verbindungen
-### Datenverarbeitung
-### Grundsätze
-### Organisation
+## 2. Verbindungen
+### 2.1. Verbindungen zu Datenverarbeitung
+### 2.2. Verbindungen zu Grundsätzen der Datenverarbeitungen
+### 2.3. Verbindungen zur Organisation des Datenschutzes
 - [Dienstleistungsvertrag](../Organisation/Dienstleistungsvertrag.md)
 - [EVB-IT Vertrag](../Organisation/EVB-IT.md)
 - [Vertrag über die Auftragsverarbeitung](../Organisation/Vertrag-Auftragsverarbeitung.md)
