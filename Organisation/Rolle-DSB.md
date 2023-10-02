@@ -1,5 +1,5 @@
 ## Allgemeines
-
+- Allgemeines zu [Rollenbeschreibungen](../Organisation/Rollenbeschreibungen.md).
 ## Verbindungen
 ### Datenverarbeitung
 ### Grundsätze

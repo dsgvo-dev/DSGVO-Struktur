@@ -1,16 +1,31 @@
-## Allgemeines
+## 1. Allgemeines
+## 2. Verbindungen
+### 2.1. Verbindungen zur Datenverarbeitung
+### 2.2. Verbindungen zu Grundsätzen der Datenverarbeitung
+### 2.3. Verbindungen zur Organisation des Datenschutzes
+#### Verbindungen zu anderen Maßnahmen
+#### Verbindungen zu anderen Prozessen
+### 3. Beteiligte Rollen
 
-## Verbindungen
-### Datenverarbeitung
-### Grundsätze
-### Organisation
-### Maßnahmen
-### Prozesse
-### Rollen
+#### RASCI Modell vereinfacht
 
-## Dokumente
-### Gesetze
-### Urteile
-### LfD Unterlagen
-### Sonstige Unterlagen
-### BSI-Referenz
+| RASCI | Rolle |
+| :---: | :----------------: |
+| R  | [Fachverantwortliche](../Organisation/Rolle-Fachverantwortliche.md)   |
+| A  | [Hauptverantwortliche](../Organisation/Rolle-Hauptverantwortliche.md) |
+| I  | [Datenschutzbeauftragte](../Organisation/Rolle-DSB.md) |
+| S  | [Datenschutzkoordinator*innen](../Organisation/Rolle-DSK.md) |
+| I  | [Informationssicherheitsbeauftragte](../Organisation/Rolle-ISB.md)|
+| -  | [IT-Abteilung](../Organisation/Rolle-IT-Abteilung.md) |
+| -  | [Organisationsabteilung](../Organisation/Rolle-Organisationsabteilung.md) |
+| -  | [Personalabteilung](../Organisation/Rolle-Personalabteilung.md) |
+| -  | [Personalrat](../Organisation/Rolle-Personalrat.md) |
+| C  | [Rechtsabteilung](../Organisation/Rolle-Rechtsabteilung.md)|
+
+
+## 4. Dokumente
+### 4.1. Gesetze
+### 4.2. Urteile
+### 4.3. LfD Unterlagen
+### 4.4. Sonstige Unterlagen
+### 4.5. BSI-Referenz

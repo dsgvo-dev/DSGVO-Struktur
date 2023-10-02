@@ -1,18 +1,33 @@
-## Allgemeines
-- Bei der Beauftragung von Dienstleistern ist innerhalb der vertraglichen Regelungen notwendig, datenschutzrechtliche Regelungen zu beachten und einzubringen.
-## Verbindungen
-### Datenverarbeitung
-### Grundsätze
-### Organisation
-### Maßnahmen
-### Prozesse
+## 1. Allgemeines
+- Bei der Beauftragung von Dienstleistern ist innerhalb der vertraglichen Regelungen notwendig, datenschutzrechtliche Verpflichtungen zu beachten und einzubringen.
+## 2. Verbindungen
+### 2.1. Verbindungen zur Datenverarbeitung
+### 2.2. Verbindungen zu Grundsätzen der Datenverarbeitung
+### 2.3. Verbindungen zur Organisation des Datenschutzes
+#### Verbindungen zu anderen Maßnahmen
+###- Verbindungen zu anderen Prozessen
 - [Vertragsmanagement](../Organisation/Vertraege.md)
-### Rollen
+### 3. Beteiligte Rollen
 
-## Dokumente
-### Gesetze
-- Verpflichtungsgesetz
-### Urteile
-### LfD Unterlagen
-### Sonstige Unterlagen
-### BSI-Referenz
+#### RASCI Modell vereinfacht
+
+| RASCI | Rolle |
+| :---: | :----------------: |
+| R  | [Fachverantwortliche](../Organisation/Rolle-Fachverantwortliche.md)   |
+| A  | [Hauptverantwortliche](../Organisation/Rolle-Hauptverantwortliche.md) |
+| I  | [Datenschutzbeauftragte](../Organisation/Rolle-DSB.md) |
+| S  | [Datenschutzkoordinator*innen](../Organisation/Rolle-DSK.md) |
+| I  | [Informationssicherheitsbeauftragte](../Organisation/Rolle-ISB.md)|
+| -  | [IT-Abteilung](../Organisation/Rolle-IT-Abteilung.md) |
+| -  | [Organisationsabteilung](../Organisation/Rolle-Organisationsabteilung.md) |
+| -  | [Personalabteilung](../Organisation/Rolle-Personalabteilung.md) |
+| -  | [Personalrat](../Organisation/Rolle-Personalrat.md) |
+| C  | [Rechtsabteilung](../Organisation/Rolle-Rechtsabteilung.md)|
+
+## 4. Dokumente
+### 4.1. Gesetze
+- [Verpflichtungsgesetz](https://www.gesetze-im-internet.de/verpflg/BJNR005470974.html)
+### 4.2. Urteile
+### 4.3. LfD Unterlagen
+### 4.4. Sonstige Unterlagen
+### 4.5. BSI-Referenz
