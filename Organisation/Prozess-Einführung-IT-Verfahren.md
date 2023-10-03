@@ -12,16 +12,17 @@
 
 | RASCI | Rolle |
 | :---: | :----------------: |
-| R  | [Fachverantwortliche](../Organisation/Rolle-Fachverantwortliche.md)   |
-| I  | [Hauptverantwortliche](../Organisation/Rolle-Hauptverantwortliche.md) |
-| I  | [Datenschutzbeauftragte](../Organisation/Rolle-DSB.md) |
-| I  | [Datenschutzkoordinator*innen](../Organisation/Rolle-DSK.md) |
-| I  | [Informationssicherheitsbeauftragte](../Organisation/Rolle-ISB.md)|
-| I  | [IT-Abteilung](../Organisation/Rolle-IT-Abteilung.md) |
+| S  | [Fachverantwortliche](../Organisation/Rolle-Fachverantwortliche.md)   |
+| A  | [Hauptverantwortliche](../Organisation/Rolle-Hauptverantwortliche.md) |
+| C  | [Datenschutzbeauftragte](../Organisation/Rolle-DSB.md) |
+| S  | [Datenschutzkoordinator*innen](../Organisation/Rolle-DSK.md) |
+| C  | [Informationssicherheitsbeauftragte](../Organisation/Rolle-ISB.md)|
+| R  | [IT-Abteilung](../Organisation/Rolle-IT-Abteilung.md) |
+| S  | [Auftragsverarbeiter](../Organisation/Rolle-Auftragsverarbeiter.md) |
 | I  | [Organisationsabteilung](../Organisation/Rolle-Organisationsabteilung.md) |
-| I  | [Personalabteilung](../Organisation/Rolle-Personalabteilung.md) |
-| I  | [Personalrat](../Organisation/Rolle-Personalrat.md) |
-| I  | [Rechtsabteilung](../Organisation/Rolle-Rechtsabteilung.md)|
+| -  | [Personalabteilung](../Organisation/Rolle-Personalabteilung.md) |
+| C  | [Personalrat](../Organisation/Rolle-Personalrat.md) |
+| -  | [Rechtsabteilung](../Organisation/Rolle-Rechtsabteilung.md)|
 
 ## 4. Dokumente
 ### 4.1. Gesetze

@@ -12,15 +12,15 @@
 | RASCI | Rolle |
 | :---: | :----------------: |
 | R  | [Fachverantwortliche](../Organisation/Rolle-Fachverantwortliche.md)   |
-| I  | [Hauptverantwortliche](../Organisation/Rolle-Hauptverantwortliche.md) |
+| A  | [Hauptverantwortliche](../Organisation/Rolle-Hauptverantwortliche.md) |
 | I  | [Datenschutzbeauftragte](../Organisation/Rolle-DSB.md) |
-| I  | [Datenschutzkoordinator*innen](../Organisation/Rolle-DSK.md) |
-| I  | [Informationssicherheitsbeauftragte](../Organisation/Rolle-ISB.md)|
-| I  | [IT-Abteilung](../Organisation/Rolle-IT-Abteilung.md) |
-| I  | [Organisationsabteilung](../Organisation/Rolle-Organisationsabteilung.md) |
-| I  | [Personalabteilung](../Organisation/Rolle-Personalabteilung.md) |
-| I  | [Personalrat](../Organisation/Rolle-Personalrat.md) |
-| I  | [Rechtsabteilung](../Organisation/Rolle-Rechtsabteilung.md)|
+| S  | [Datenschutzkoordinator*innen](../Organisation/Rolle-DSK.md) |
+| C  | [Informationssicherheitsbeauftragte](../Organisation/Rolle-ISB.md)|
+| S  | [IT-Abteilung](../Organisation/Rolle-IT-Abteilung.md) |
+| S  | [Organisationsabteilung](../Organisation/Rolle-Organisationsabteilung.md) |
+| -  | [Personalabteilung](../Organisation/Rolle-Personalabteilung.md) |
+| -  | [Personalrat](../Organisation/Rolle-Personalrat.md) |
+| -  | [Rechtsabteilung](../Organisation/Rolle-Rechtsabteilung.md)|
 
 ## 4. Dokumente
 ### 4.1. Gesetze
