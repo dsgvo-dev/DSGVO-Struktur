@@ -31,9 +31,7 @@
 
 ## DV.6 - [Verarbeitungstätigkeit](Datenverarbeitung/Verarbeitungstaetigkeit.md)
 
-
-
-# Grundsätze (G)
+# Grundsätze der Datenverarbeitung (G)
 
 - G.1 - [Vertraulichkeit](Grundsaetze-Datenverarbeitung/Vertraulichkeit.md) 
 - G.2 - [Verfügbarkeit](Grundsaetze-Datenverarbeitung/Verfuegbarkeit.md) 
@@ -73,9 +71,9 @@
   - O.P.X - [LfD-Verfahren](Organisation/Prozess-LfD-Verfahren.md)
   - O.P.X - [Unterlassung](Organisation/Prozess-Unterlassung.md)
   - O.P.X - [Schadensersatz](Organisation/Prozess-Schadensersatz.md)
-  - O.P.X - [Prozess - Erstellung des Verzeichnisses der Verarbeitungstätigketen](Organisation/Prozess-VVT-Erstellung.md)
-  - O.P.X - [Prozess - Erstellung der Risikoanalyse](Organisation/Prozess-Risikoanalyse.md)
-  - O.P.X - [Prozess - Erstellung der Datenschutz-Folgenabschätzung](Organisation/Prozess-DSFA.md)
+  - O.P.X - [Erstellung des Verzeichnisses der Verarbeitungstätigketen](Organisation/Prozess-VVT-Erstellung.md)
+  - O.P.X - [Erstellung der Risikoanalyse](Organisation/Prozess-Risikoanalyse.md)
+  - O.P.X - [Erstellung der Datenschutz-Folgenabschätzung](Organisation/Prozess-DSFA.md)
   - O.P.X - [Prozess - Einführung eines IT-Verfahrens](Organisation/Prozess-Einfuehrung-IT-Verfahren.md)
 - O.X - [Dokumentation](Organisation/Dokumentation.md) 
 - O.3 - [[TOM]](Organisation/Prozess-TOM.md) 

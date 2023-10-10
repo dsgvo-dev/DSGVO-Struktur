@@ -16,12 +16,20 @@
 | C  | [Datenschutzbeauftragte](../Organisation/Rolle-DSB.md) |
 | S  | [Datenschutzkoordinator*innen](../Organisation/Rolle-DSK.md) |
 | S  | [Informationssicherheitsbeauftragte](../Organisation/Rolle-ISB.md)|
-| -  | [IT-Abteilung](../Organisation/Rolle-IT-Abteilung.md) |
+| S  | [IT-Abteilung](../Organisation/Rolle-IT-Abteilung.md) |
+| S  | [Auftragsverarbeiter](../Organisation/Rolle-Auftragsverarbeiter.md) |
 | -  | [Organisationsabteilung](../Organisation/Rolle-Organisationsabteilung.md) |
 | -  | [Personalabteilung](../Organisation/Rolle-Personalabteilung.md) |
 | -  | [Personalrat](../Organisation/Rolle-Personalrat.md) |
 | -  | [Rechtsabteilung](../Organisation/Rolle-Rechtsabteilung.md)|
 
+- Die Prozesse werden nach der RASCI-Methode dargestellt. Jeder Teilprozess wird einer Rolle mit der Bemerkung
+  - Responsible (R) - Durchführungsverantwortung, 
+  - Accountable (A) Kosten- bzw- Gesamtverantwortung, 
+  - Support (S) - Unterstützung,
+  - Consulted (C) - Konsultation, 
+  - Informed (I) - Informationsrecht
+  zugewiesen (siehe dazu den Artikel in [Wikipedia](https://de.wikipedia.org/wiki/RACI)).
 
 ## 4. Dokumente
 ### 4.1. Gesetze

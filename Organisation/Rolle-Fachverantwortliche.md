@@ -9,7 +9,6 @@
 - [Prozess Auskunft](../Organisation/Prozess-Auskunft.md)
 - [Prozess Beauftragung](../Organisation/Prozess-Beauftragung.md)
 - [Prozess Berichtigung](../Organisation/Prozess-Berichtigung.md)
-- [Prozess Berichtigung](../Organisation/Prozess-Berichtigung.md)
 - [Prozess Data Breach](../Organisation/Prozess-Data-Breach.md)
 - [Prozess DSFA](../Organisation/Prozess-DSFA.md)
 - [Prozess Einführung IT-Verfahren](../Organisation/Prozess-Einf%C3%BChrung-IT-Verfahren.md)
