@@ -32,6 +32,7 @@
   
 ## 4. Dokumente
 ### 4.1. Gesetze
+- Art. 32 Abs. 4 DSGVO
 ### 4.2. Urteile
 ### 4.3. LfD Unterlagen
 ### 4.4. Sonstige Unterlagen

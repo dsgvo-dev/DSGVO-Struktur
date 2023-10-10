@@ -16,7 +16,7 @@
 | C  | [Datenschutzbeauftragte](../Organisation/Rolle-DSB.md) |
 | I  | [Datenschutzkoordinator*innen](../Organisation/Rolle-DSK.md) |
 | I  | [Informationssicherheitsbeauftragte](../Organisation/Rolle-ISB.md)|
-| -  | [IT-Abteilung](../Organisation/Rolle-IT-Abteilung.md) |
+| S  | [IT-Abteilung](../Organisation/Rolle-IT-Abteilung.md) |
 | S  | [Auftragsverarbeiter](../Organisation/Rolle-Auftragsverarbeiter.md) |
 | -  | [Organisationsabteilung](../Organisation/Rolle-Organisationsabteilung.md) |
 | -  | [Personalabteilung](../Organisation/Rolle-Personalabteilung.md) |

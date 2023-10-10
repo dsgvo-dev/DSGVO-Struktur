@@ -20,7 +20,7 @@
 | R  | [IT-Abteilung](../Organisation/Rolle-IT-Abteilung.md) |
 | S  | [Auftragsverarbeiter](../Organisation/Rolle-Auftragsverarbeiter.md) |
 | I  | [Organisationsabteilung](../Organisation/Rolle-Organisationsabteilung.md) |
-| -  | [Personalabteilung](../Organisation/Rolle-Personalabteilung.md) |
+| C  | [Personalabteilung](../Organisation/Rolle-Personalabteilung.md) |
 | C  | [Personalrat](../Organisation/Rolle-Personalrat.md) |
 | -  | [Rechtsabteilung](../Organisation/Rolle-Rechtsabteilung.md)|
 
