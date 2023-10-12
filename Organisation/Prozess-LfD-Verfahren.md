@@ -13,7 +13,7 @@
 | :---: | :----------------: |
 | R  | [Fachverantwortliche](../Organisation/Rolle-Fachverantwortliche.md)   |
 | A  | [Hauptverantwortliche](../Organisation/Rolle-Hauptverantwortliche.md) |
-| C  | [Datenschutzbeauftragte](../Organisation/Rolle-DSB.md) |
+| R  | [Datenschutzbeauftragte](../Organisation/Rolle-DSB.md) |
 | I  | [Datenschutzkoordinator*innen](../Organisation/Rolle-DSK.md) |
 | I  | [Informationssicherheitsbeauftragte](../Organisation/Rolle-ISB.md)|
 | S  | [IT-Abteilung](../Organisation/Rolle-IT-Abteilung.md) |

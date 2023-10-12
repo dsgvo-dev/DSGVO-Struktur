@@ -12,7 +12,7 @@
 | RASCI | Rolle |
 | :---: | :----------------: |
 | R  | [Fachverantwortliche](../Organisation/Rolle-Fachverantwortliche.md)   |
-| I  | [Hauptverantwortliche](../Organisation/Rolle-Hauptverantwortliche.md) |
+| A  | [Hauptverantwortliche](../Organisation/Rolle-Hauptverantwortliche.md) |
 | C  | [Datenschutzbeauftragte](../Organisation/Rolle-DSB.md) |
 | I  | [Datenschutzkoordinator*innen](../Organisation/Rolle-DSK.md) |
 | -  | [Informationssicherheitsbeauftragte](../Organisation/Rolle-ISB.md)|
@@ -21,7 +21,7 @@
 | -  | [Organisationsabteilung](../Organisation/Rolle-Organisationsabteilung.md) |
 | -  | [Personalabteilung](../Organisation/Rolle-Personalabteilung.md) |
 | -  | [Personalrat](../Organisation/Rolle-Personalrat.md) |
-| A  | [Rechtsabteilung](../Organisation/Rolle-Rechtsabteilung.md)|
+| R  | [Rechtsabteilung](../Organisation/Rolle-Rechtsabteilung.md)|
 
 - Die Prozesse werden nach der RASCI-Methode dargestellt. Jeder Teilprozess wird einer Rolle mit der Bemerkung
   - Responsible (R) - Durchführungsverantwortung, 

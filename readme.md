@@ -1,3 +1,18 @@
+# Datenschutz-Struktur
+
+Innerhalb der Datenschutzstruktur findet eine erste Unterteilung in drei Ebenen statt: Datenverarbeitung, Grundsätze der Datenverarbeitung und Organisation des Datenschutzes.
+
+```mermaid
+graph LR
+
+    ds("Datenverarbeitung")
+    gr("Grundsätze")
+    org("Organisation")
+
+    ds --- gr --- org
+```
+
+
 # Datenverarbeitung (DV)
 
 ## DV.1 - [Verantwortliche](Datenverarbeitung/Verantwortliche.md)
@@ -37,7 +52,7 @@
 - G.2 - [Verfügbarkeit](Grundsaetze-Datenverarbeitung/Verfuegbarkeit.md) 
 - G.3 - [Integrität](Grundsaetze-Datenverarbeitung/Integritaet.md) 
 - G.4 - [Belastbarkeit](Grundsaetze-Datenverarbeitung/Belastbarkeit.md) 
-- G.5 - [Rechtmäßigkei](Grundsaetze-Datenverarbeitung/Rechtmaessigkeit.md) 
+- G.5 - [Rechtmäßigkeit](Grundsaetze-Datenverarbeitung/Rechtmaessigkeit.md) 
 - G.6 - [Zweckbindung](Grundsaetze-Datenverarbeitung/Zweckbindung.md) 
 - G.7 - [Erforderlichkeit](Grundsaetze-Datenverarbeitung/Erforderlichkeit.md) 
 - G.8 - [Datenminimierung](Grundsaetze-Datenverarbeitung/Datenminimierung.md) 

@@ -1,5 +1,5 @@
 ## 1. Allgemeines
-- Das Recht der Betroffenen auf Einschränkung ist durch einen entsprechenden Prozess zu gewährleisten.
+- Das Recht der Betroffenen auf [Einschränkung](../Datenverarbeitung/Einschraenkung.md) ist durch einen entsprechenden Prozess zu gewährleisten.
 ## 2. Verbindungen
 ### 2.1. Verbindungen zur Datenverarbeitung
 ### 2.2. Verbindungen zu Grundsätzen der Datenverarbeitung
@@ -36,6 +36,7 @@
 ## 4. Dokumente
 ### 4.1. Gesetze
 - Art. 18 DSGVO
+- EG 67 DSGVO
 ### 4.2. Urteile
 ### 4.3. LfD Unterlagen
 ### 4.4. Sonstige Unterlagen

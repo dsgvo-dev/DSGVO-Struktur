@@ -35,5 +35,7 @@
 ### 4.1. Gesetze
 ### 4.2. Urteile
 ### 4.3. LfD Unterlagen
+- [Muster LfD Rheinland-Pfalz](https://www.datenschutz.rlp.de/de/themenfelder-themen/datenschutz-grundverordnung/datenschutz-folgenabschaetzung/)
 ### 4.4. Sonstige Unterlagen
+- [Working Paper (WP) 248 "Leitlinien zur Datenschutz-Folgenabschätzung (DSFA) und Beantwortung der Frage, ob eine Verarbeitung im Sinne der Verordnung 2016/679 „wahrscheinlich ein hohes Risiko mit sich bringt"](https://ec.europa.eu/newsroom/article29/items/611236)
 ### 4.5. BSI-Referenz

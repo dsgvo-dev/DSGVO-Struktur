@@ -12,8 +12,8 @@
 | RASCI | Rolle |
 | :---: | :----------------: |
 | I  | [Fachverantwortliche](../Organisation/Rolle-Fachverantwortliche.md)   |
-| I  | [Hauptverantwortliche](../Organisation/Rolle-Hauptverantwortliche.md) |
-| A  | [Datenschutzbeauftragte](../Organisation/Rolle-DSB.md) |
+| A  | [Hauptverantwortliche](../Organisation/Rolle-Hauptverantwortliche.md) |
+| R  | [Datenschutzbeauftragte](../Organisation/Rolle-DSB.md) |
 | S  | [Datenschutzkoordinator*innen](../Organisation/Rolle-DSK.md) |
 | C  | [Informationssicherheitsbeauftragte](../Organisation/Rolle-ISB.md)|
 | -  | [IT-Abteilung](../Organisation/Rolle-IT-Abteilung.md) |
