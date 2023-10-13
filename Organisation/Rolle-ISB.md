@@ -20,7 +20,7 @@
 ## 4. Dokumente
 ### 4.1. Gesetze
 ### 4.2. Urteile
-### 4.3. LfD Unterlagen
+### 4.3. Dokumente der Datenschutzaufsicht
 ### 4.4. Sonstige Unterlagen
 ### 4.5. BSI-Referenz
 - BSI Grundschutz, [Standard 200-2](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Grundschutz/BSI_Standards/standard_200_2.pdf?__blob=publicationFile&v=2), Ziff. 4.4

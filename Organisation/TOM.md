@@ -21,7 +21,7 @@
 - OVG Lüneburg, Urt. v. 14.01.2020, 11 LC 191/17, juris, Rn. 49: "Liegt (...) durch die Verarbeitung personenbezogener Daten ein Eingriff in das durch Art. 2 Abs. 1 i.V.m. Art. 1 Abs. 1 GG gewährleistete informationelle Selbstbestimmungsrecht vor, bedarf es nicht nur einer gesetzlichen Grundlage für die Beschränkung dieses Grundrechts. Der Gesetzgeber hat auch für die notwendigen Sicherheitsvorkehrungen Sorge zu tragen (BVerfG, Urt. v. 15.12.1983, 1 BvR 209/83 u.a.-, BVerfG 65, 1, juris, Rn. 191, "Volkszählungsurteil"). Insbesondere sind die betroffenen Daten vor unbefugtem Zugriff Dritter und vor missbräuchlicher Nutzung zu schützen. Zur Gewährleistung einer zweckentsprechenden Verarbeitung sind Kennzeichnungs- und Protokollierungspflichten verfassungsrechtlich vorgesehen (BVerfG, Urt. v. 24.04.2013, 1 BvR 1215/07, BVerfGE 133, 277, juris, Rn. 114).
 - OVG Lüneburg, Beschl. v. 22.07.2020, 11 LA 104/19, https://voris.wolterskluwer-online.de/browse/document/decef11f-f8c8-44b8-8efd-6a994daa97d5
 - OLG Düsseldorf, 28.10.2021, 16 U 275/20, www.justiz.nrw.de; Einwilligung in Verzicht TOM Verschlüsselung von E-Mail möglich
-### 4.3. LfD Unterlagen
+### 4.3. Dokumente der Datenschutzaufsicht
 - LfD Niedersachsen - ZAWAS; https://lfd.niedersachsen.de/startseite/themen/technik_und_organisation/orientierungshilfen_und_handlungsempfehlungen/zawas/praxisnahe-hilfe-zum-technisch-organisatorischen-datenschutz-173395.html
 - LDA Bayern - Checkliste; https://www.lda.bayern.de/media/checkliste/baylda_checkliste_tom.pdf
 - NIST - The NIST Privacy Framework: A Tool for Improving Privacy through Enterprise Risk Management, https://www.nist.gov/privacy-framework/privacy-framework

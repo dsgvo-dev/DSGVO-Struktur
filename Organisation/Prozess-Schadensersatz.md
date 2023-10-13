@@ -33,7 +33,8 @@
 
 ## 4. Dokumente
 ### 4.1. Gesetze
+- Art. 82 DSGVO
 ### 4.2. Urteile
-### 4.3. LfD Unterlagen
+### 4.3. Dokumente der Datenschutzaufsicht
 ### 4.4. Sonstige Unterlagen
 ### 4.5. BSI-Referenz

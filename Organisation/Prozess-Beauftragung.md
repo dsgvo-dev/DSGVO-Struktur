@@ -37,6 +37,6 @@
 ### 4.1. Gesetze
 - [Verpflichtungsgesetz](https://www.gesetze-im-internet.de/verpflg/BJNR005470974.html)
 ### 4.2. Urteile
-### 4.3. LfD Unterlagen
+### 4.3. Dokumente der Datenschutzaufsicht
 ### 4.4. Sonstige Unterlagen
 ### 4.5. BSI-Referenz

@@ -7,6 +7,8 @@
 - [Gemeinsame Verantwortung](../Datenverarbeitung/Gemeinsame-Verantwortung.md)
 ### 2.2. Verbindungen zu den Grundsätzen der Datenverarbeitung
 ### 2.3. Verbindungen zu der Organisation des Datenschutzes
+- [Verträge](../Organisation/Vertraege.md)
+- [Kooperationsvertrag](../Organisation/Kooperationsvertrag.md)
 ### Verbindungen zu Maßnahmen
 ### Verbindungne zu Prozessen
 ## 3. Beteiligte Rollen
@@ -17,7 +19,7 @@
 - Art. 26 DSGVO
 - § 44 NDSG
 ### 4.2. Urteile
-### 4.3. LfD Unterlagen
+### 4.3. Dokumente der Datenschutzaufsicht
 - [LfD Bayern](https://www.baden-wuerttemberg.datenschutz.de/wp-content/uploads/2019/05/190521_Vertragsmuster-Art-26.docx)
 - [Bayerisches Staatsministerium des Inneren](https://www.stmi.bayern.de/assets/stmi/sus/datensicherheit/muster_einer_vereinbarung_zur_regelung_gemeinsamer_verantwortlichkeit.docx)
 ### 4.4. Sonstige Unterlagen
