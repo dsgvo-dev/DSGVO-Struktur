@@ -35,5 +35,6 @@
 ### 4.1. Gesetze
 ### 4.2. Urteile
 ### 4.3. Dokumente der Datenschutzaufsicht
+- [Hinweise LfD Niedersachsen zu Löschfristen im öffentlichen Bereich](https://lfd.niedersachsen.de/startseite/themen/technik_und_organisation/festlegung_von_loschfristen_im_offentlichen_bereich/hilfestellungen-fuer-verantwortliche-bei-der-festlegung-von-loeschfristen-168232.html) 
 ### 4.4. Sonstige Unterlagen
 ### 4.5. BSI-Referenz

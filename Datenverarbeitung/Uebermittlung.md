@@ -1,17 +1,19 @@
-## Allgemeines
-
-## Verbindungen
+## 1. Allgemeines
+- Die Speicherung [personenbezogener Daten](../Datenverarbeitung/Personenbezogene-Daten.md) ist eine Form der [Datenverarbeitung](../Datenverarbeitung/Verarbeitung.md) und bedarf einer [Rechtsgrundlage](../Grundsaetze-Datenverarbeitung/Rechtmaessigkeit.md).
+## 2. Verbindungen
+### 2.1. Verbindungen zur Datenverarbeitung
 - Begriff des [Empfängers](../Datenverarbeitung/Empfaenger.md)
-### Datenverarbeitung
-### Grundsätze
-### Organisation
-### Maßnahmen
-### Prozesse
-### Rollen
-
-## Dokumente
-### Gesetze
-### Urteile
-### LfD Unterlagen
-### Sonstige Unterlagen
-### BSI-Referenz
+### 2.2. Verbindungen zu Grundsätzen der Datenverarbeitung
+### 2.3. Verbindungen zur Organisation des Datenschutzes
+#### Verbindungen zu anderen Maßnahmen
+#### Verbindungen zu anderen Prozessen
+## 3. Beteiligte Rollen
+## 4. Dokumente
+### 4.1. Gesetze
+- Art. 4 Nr. 2 DSGVOs
+- § 5 NDSG
+- §§ 67d ff. SGB X 
+### 4.2. Urteile
+### 4.3. Dokumente der Datenschutzaufsicht
+### 4.4. Sonstige Unterlagen
+### 4.5. BSI-Referenz
