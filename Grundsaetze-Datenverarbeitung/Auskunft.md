@@ -2,6 +2,7 @@
 - Das [Recht der Betroffenen](../Grundsaetze-Datenverarbeitung/Betroffenenrechte.md) auf Auskunft ist durch einen entsprechenden [Prozess](../Organisation/Prozess-Auskunft.md) zu gewährleisten.
 ## 2. Verbindungen
 ### 2.1. Verbindungen zur Datenverarbeitung
+- [Empfänger](../Datenverarbeitung/Empfaenger.md)
 ### 2.2. Verbindungen zu Grundsätzen der Datenverarbeitung
 ### 2.3. Verbindungen zur Organisation des Datenschutzes
 #### Verbindungen zu anderen Maßnahmen
