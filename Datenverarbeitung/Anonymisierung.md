@@ -3,7 +3,7 @@
 - "Die Grundsätze des Datenschutzes sollten daher nicht für anonyme Informationen gelten, d.h. für Informationen, die sich nicht auf eine identifizierte oder identifizierbare natürliche Person beziehen, oder personenbezogene Daten, die in einer Weise anonymisiert worden sind, dass die betroffene Person nicht oder nicht mehr identifiziert werden kann." (EG 26 Satz 5)
 - Definition NDSG: "das Verändern personenbezogener Daten derart, dass die Einzelangaben über persönliche oder sachliche Verhältnisse nicht mehr oder nur mit einem unverhältnismäßig großen Aufwand an Zeit, Kosten und Arbeitskraft einer bestimmten oder bestimmbaren natürlichen Person zugeordnet werden können." (§ 24 Nr. 18 NDSG)
 - Das Vorliegen anonymer Daten bzw. das Anonymisieren [personenbezogener Daten](../Datenverarbeitung/Personenbezogene-Daten.md) führt dazu, dass keine personenbezogene Daten im Sinne des Gesetzes mehr vorligen. Der Anwendungsbereich des Datenschutzes ist nicht mehr eröffnet und die Datenschutzregelungen finden keine Anwendung mehr.
-- Abzugrenzen ist die Anonymisierung von der - [Pseudonymisierung](../Datenverarbeitung/Pseudonymisierung.md).
+- Abzugrenzen ist die Anonymisierung von der [Pseudonymisierung](../Datenverarbeitung/Pseudonymisierung.md).
 ## 2. Verbindungen
 ### 2.1. Verbindungen zur Datenverarbeitung
 - [Pseudonymisierung](../Datenverarbeitung/Pseudonymisierung.md)

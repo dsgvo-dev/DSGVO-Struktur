@@ -4,6 +4,9 @@
 - Die Auftragsverarbeiter sind bei der Durchführung der ihnen von den Auftraggebern mittels eines [Vertrages](../Organisation/Vertraege.md) übertragenen Aufgaben nicht selbst [Verantwortliche](../Datenverarbeitung/Verantwortliche.md).
 ## 2. Verbindungen
 ### 2.1. Verbindungen zur Datenverarbeitung
+- [Verantwortliche](../Datenverarbeitung/Verantwortliche.md)
+- [Dritte](../Datenverarbeitung/Dritte.md)
+- [Empfänger](../Datenverarbeitung/Empfaenger.md)
 ### 2.2. Verbindungen zu Grundsätzen der Datenverarbeitung
 ### 2.3. Verbindungen zur Organisation des Datenschutzes
 - Die Auftragsverarbeiter haben für die Durchführung der [Auftragsverarbeitung](../Datenverarbeitung/Auftragsverarbeitung.md) bestimmte [Zuständigkeiten](../Organisation/Rolle-Auftragsverarbeiter.md).

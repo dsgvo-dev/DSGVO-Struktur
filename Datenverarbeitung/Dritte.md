@@ -3,11 +3,13 @@
 - Eine Datenübermittlung zu einem Dritten bedarf immer einer [Rechtsgrundlage](../Grundsaetze-Datenverarbeitung/Rechtmaessigkeit.md).
 ## Verbindungen
 - Abzugrenzen ist der Begriff des "Dritten" von der [Auftragsverarbeitung](../Datenverarbeitung/Auftragsverarbeitung.md). Bei Letzterer wird der Dienstleister dem Auftraggeber zugerechnet und ist gerade kein Dritter.
-- Abzugrenzen vom Begriff der ["Empfänger"](../Datenverarbeitung/Empfaenger.md)
+- Abzugrenzen vom Begriff der ["Empfänger"](../Datenverarbeitung/Empfaenger.md). Ein Dritter ist auch Empfänger.
 ## 2. Verbindungen
 ### 2.1. Verbindungen zur Datenverarbeitung
+- [Empfänger](../Datenverarbeitung/Empfaenger.md)
 ### 2.2. Verbindungen zu Grundsätzen der Datenverarbeitung
 ### 2.3. Verbindungen zur Organisation des Datenschutzes
+- Über die Dritten muss der [Verantwortliche](../Datenverarbeitung/Verantwortliche.md) innerhalb der [Datenschutzerklärung](../Organisation/Datenschutzerklaerung.md) als auch der [Auskunft](../Grundsaetze-Datenverarbeitung/Auskunft.md) belehren.
 #### Verbindungen zu anderen Maßnahmen
 #### Verbindungen zu anderen Prozessen
 ## 3. Beteiligte Rollen

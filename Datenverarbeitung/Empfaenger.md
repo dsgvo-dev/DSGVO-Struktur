@@ -1,11 +1,14 @@
 ## 1. Allgemeines
 - Definition: "eine natürliche oder juristische Person, Behörde, Einrichtung oder andere Stelle, der personenbezogene Daten offengelegt werden, unabhängig davon, ob es sich bei ihr um einen Dritten handelt oder nicht. Behörden, die im Rahmen eines bestimmten Untersuchungsauftrags nach dem Recht der Mitgliedstaaten möglicherweise personenbezogene Daten erhalten, gelten jedoch nicht als Empfänger; die Verarbeitung dieser Daten durch die genannten Behörden erfolgt im Einklang mit den geltenden Datenschutzvorschriften gemäß den Zwecken der Verarbeitung" (Art. 4 Nr. 9 DSGVO)
+- Über die Empfänger muss der [Verantwortliche](../Datenverarbeitung/Verantwortliche.md) innerhalb der [Datenschutzerklärung](../Organisation/Datenschutzerklaerung.md) als auch der [Auskunft](../Grundsaetze-Datenverarbeitung/Auskunft.md) belehren.
 ## 2. Verbindungen
 ### 2.1. Verbindungen zur Datenverarbeitung
+- [Verantwortliche](../Datenverarbeitung/Verantwortliche.md)
 - [Übermittlung](../Datenverarbeitung/Uebermittlung.md)
 - [Dritte](../Datenverarbeitung/Dritte.md)
 ### 2.2. Verbindungen zu Grundsätzen der Datenverarbeitung
 - [Auskunft](../Grundsaetze-Datenverarbeitung/Auskunft.md)
+- [Datenschutzerklärung](../Organisation/Datenschutzerklaerung.md)
 ### 2.3. Verbindungen zur Organisation des Datenschutzes
 #### Verbindungen zu anderen Maßnahmen
 #### Verbindungen zu anderen Prozessen
