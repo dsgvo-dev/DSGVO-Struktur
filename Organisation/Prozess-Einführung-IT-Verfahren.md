@@ -4,6 +4,7 @@
 ### 2.1. Verbindungen zur Datenverarbeitung
 ### 2.2. Verbindungen zu Grundsätzen der Datenverarbeitung
 ### 2.3. Verbindungen zur Organisation des Datenschutzes
+- Die Organisation der IT-Einführung ist in einer [Dienstanweisung für IT](../Organisation/Dienstanweisung-IT.md) zu regeln.
 #### Verbindungen zu anderen Maßnahmen
 #### Verbindungen zu anderen Prozessen
 ### 3. Beteiligte Rollen

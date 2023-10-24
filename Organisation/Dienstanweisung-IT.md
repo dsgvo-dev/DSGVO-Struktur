@@ -1,0 +1,17 @@
+## 1. Allgemeines
+- Eine Software darf erst dann zum Einsatz gebracht werden, wenn eine Freigabe durch die [IT-Abteilung](../Organisation/Rolle-IT-Abteilung.md) erfolgt ist.
+## 2. Verbindungen
+### 2.1. Verbindungen zur Datenverarbeitung
+### 2.2. Verbindungen zu Grundsätzen der Datenverarbeitung
+### 2.3. Verbindungen zur Organisation des Datenschutzes
+- [Dienstanweisungen](../Organisation/Dienstanweisung.md)
+#### Verbindungen zu anderen Maßnahmen
+#### Verbindungen zu anderen Prozessen
+## 3. Beteiligte Rollen
+- [IT-Abteilung](../Organisation/Rolle-IT-Abteilung.md)
+## 4. Dokumente
+### 4.1. Gesetze
+### 4.2. Urteile
+### 4.3. Dokumente der Datenschutzaufsicht
+### 4.4. Sonstige Unterlagen
+### 4.5. BSI-Referenz
