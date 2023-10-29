@@ -1,5 +1,7 @@
 ## 1. Allgemeines
 - Allgemeines zu [Rollenbeschreibungen](../Organisation/Rollenbeschreibungen.md).
+- Datenschutzbeauftragte sind in den Art. 37 ff. DSGVO gesetzlich vorgesehene Rollen (anders als die [Datenschutzkoordinatoren](../Organisation/Rolle-DSK.md)).
+- Die Bestellung von Datenschutzbeauftragten ist durch die [Verantwortlichen] gegenüber den Datenschutz-Aufsichtsbehörden anzuzeigen ([Meldeportal für Niedersachsen](https://nds.dsb-meldung.de/))
 ## 2. Verbindungen
 ### 2.1. Verbindungen zur Datenverarbeitung
 ### 2.2. Verbindungen zu Grundsätzen der Datenverarbeitung
@@ -28,5 +30,15 @@
 - Artt. 37 ff. DSGVO
 ### 4.2. Urteile
 ### 4.3. Dokumente der Datenschutzaufsicht
+- [Working Paper 243; Leitlinien in Bezug auf Datenschutzbeauftragte („DSB“)](https://www.datenschutzkonferenz-online.de/media/wp/20170405_wp243_rev01.pdf)
+- [Datenschhutzkonferenz Kurzpapier Nr. 12
+Datenschutzbeauftragte bei Verantwortlichen und
+Auftragsverarbeitern](https://www.datenschutzkonferenz-online.de/media/kp/dsk_kpnr_12.pdf)
+- [LfD Niedersachsen Hinweise DSB](https://lfd.niedersachsen.de/download/120512/Aufgaben_DSB.pdf)
+- [LfD Niedersachsen Muster Bestellungsschreiben DSB](https://lfd.niedersachsen.de/startseite/themen/datenschutzbeauftragte/betriebliche_datenschutzbeauftragte/betriebliche-datenschutzbeauftragte-87291.html)
+- [LfD Niedersachsen Benennung Checkliste](https://lfd.niedersachsen.de/download/120511)
+- [BayLDA Hinweise](https://www.datenschutz-bayern.de/datenschutzreform2018/aki07.pdf)
+- [LfD Rheinland-Pfalz Starterset DSB](https://www.datenschutz.rlp.de/de/themenfelder-themen/behoerdliche-datenschutzbeauftragte/)
 ### 4.4. Sonstige Unterlagen
 ### 4.5. BSI-Referenz
+- BSI Grundschutz Kompendium CON.2
