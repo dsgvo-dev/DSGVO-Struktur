@@ -89,7 +89,7 @@ graph LR
   - O.P.X - [Erstellung des Verzeichnisses der Verarbeitungstätigketen](Organisation/Prozess-VVT-Erstellung.md)
   - O.P.X - [Erstellung der Risikoanalyse](Organisation/Prozess-Risikoanalyse.md)
   - O.P.X - [Erstellung der Datenschutz-Folgenabschätzung](Organisation/Prozess-DSFA.md)
-  - O.P.X - [Prozess - Einführung eines IT-Verfahrens](Organisation/Prozess-Einfuehrung-IT-Verfahren.md)
+  - O.P.X - [Prozess - Einführung eines IT-Verfahrens](/Organisation/Prozess-Einf%C3%BChrung-IT-Verfahren.md)
 - O.X - [Dokumentation](Organisation/Dokumentation.md) 
 - O.3 - [[TOM]](Organisation/Prozess-TOM.md) 
   - O.2.1 - [Informationspflichten](Organisation/Informationspflichten.md)
