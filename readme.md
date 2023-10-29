@@ -27,9 +27,6 @@ graph LR
 
 ## DV.4 - [Personenbezogene Daten](Datenverarbeitung/Personenbezogene-Daten.md)
 
-- [Schutzstufe](Datenverarbeitung/Schutzstufe.md)
-- [Risiko](Datenverarbeitung/Risiko.md)
-
 ## DV.5 - [Verarbeitung](Datenverarbeitung/Verarbeitung.md)
 
 - DV.5.1 - [Erhebung](Datenverarbeitung/Erhebung.md)
@@ -45,6 +42,10 @@ graph LR
 - DV.5.11 - [Löschung](Datenverarbeitung/Loeschung.md)
 
 ## DV.6 - [Verarbeitungstätigkeit](Datenverarbeitung/Verarbeitungstaetigkeit.md)
+
+- DV.6.1 [Schutzstufe](Datenverarbeitung/Schutzstufe.md)
+- DV.6.2 [Art, des Umfangs, der Umstände und der Zwecke der Verarbeitung]
+- DV.6.X [Risiko](Datenverarbeitung/Risiko.md)
 
 # Grundsätze der Datenverarbeitung (G)
 
@@ -67,47 +68,8 @@ graph LR
 
 # Organisation (O)
 
-- O.1. [Aufbauorganisation](Organisation/Aufbauorganiation.md) 
-- O.P. - [Prozesse](Organisation/Prozesse.md) 
-  - O.P.X - [Widerspruch](Organisation/Prozess-Widerspruch.md)
-  - O.P.X - [Allgemeines Datenschutzmanagement](allgemeines-datenschutzmanagement/index.de) 
-    - [Personal](Organisation/Prozess-Personalmanagement.md) 
-      - [Belehrung](Organisation/Prozess-Belehrung.md) 
-        - Verpflichtung
-        - Onboarding
-        - Offboarding
-      - [Schulung](Organisation/Prozess-Schulung.md)
-  - O.P.X - [Auskunft](Organisation/Prozess-Auskunft.md)
-  - O.P.X - [Berichtigung](Organisation/Prozess-Berichtigung.md)
-  - O.P.X - [Löschung](Organisation/Prozess-Loeschung.md)
-  - O.P.X - [Einschränkung](Organisation/Prozess-Einschraenkung.md)
-  - O.P.X - [Widerspruch](Organisation/Prozess-Widerspruch.md)
-  - O.P.X - [Data Breach](Organisation/Prozess-Data-Breach.md)
-  - O.P.X - [LfD-Verfahren](Organisation/Prozess-LfD-Verfahren.md)
-  - O.P.X - [Unterlassung](Organisation/Prozess-Unterlassung.md)
-  - O.P.X - [Schadensersatz](Organisation/Prozess-Schadensersatz.md)
-  - O.P.X - [Erstellung des Verzeichnisses der Verarbeitungstätigketen](Organisation/Prozess-VVT-Erstellung.md)
-  - O.P.X - [Erstellung der Risikoanalyse](Organisation/Prozess-Risikoanalyse.md)
-  - O.P.X - [Erstellung der Datenschutz-Folgenabschätzung](Organisation/Prozess-DSFA.md)
-  - O.P.X - [Prozess - Einführung eines IT-Verfahrens](/Organisation/Prozess-Einf%C3%BChrung-IT-Verfahren.md)
-- O.X - [Dokumentation](Organisation/Dokumentation.md) 
-- O.3 - [[TOM]](Organisation/Prozess-TOM.md) 
-  - O.2.1 - [Informationspflichten](Organisation/Informationspflichten.md)
-  - O.2.2 - [Datenschutzerklärung](Organisation/Datenschutzerklaerung.md)
-  - O.2.X - [Pseudonymisierung](Organisation/Pseudonymisierung.md)
-- O.4 - [Verträge](Organisation/Vertraege.md) 
-  - O.4.1 - [Dienstleistungsvertrag](Organisation/Dienstleistungsvertrag.md)
-  - 0.4.2 - [Kooperationsvertrag](Organisation/Kooperationsvertrag.md)
-  - 0.4.3 - [EVB](Organisation/EVB-IT.md)
-  - O.4.4 - [Vertrag zur Auftragsverarbeitung](/Organisation/Vertrag-Auftragsverarbeitung.md)
-  - O.4.5 - [Vertrag zur Gemeinsamen Datenverarbeitung](Organisation/Vertrag-Gemeinsame-Verantwortung.md)
-- O.5 - [Dienstanweisung](Organisation/Dienstanweisung.md) 
-  - O.5.1 - [Dienstanweisung Datenschutz](Organisation/Dienstanweisung-Datenschutz.md)
-  - O.5.2 - [Spezielle Dienstanweisungen](Organisation/Spezielle-Dienstanweisungen.md)
-- O.6 - [Dienstvereinbarung](Organisation/Dienstvereinbarungen.md) 
-  - O.6.1 - [Rahmendienstvereinbarung EDV](Organisation/Rahmendienstvereinbarung-EDV.md)
-  - O.6.2 - [Spezielle Dienstvereinbarungen](Organisation/Spezielle-Dienstvereinbarungen.md)
-- O.7 - [Rollenbeschreibungen](Organisation/Rollenbeschreibungen.md) 
+- O.1. [Aufbauorganisation](Organisation/Aufbauorganiation.md)
+- O.1.1 [Rollenbeschreibungen](Organisation/Rollenbeschreibungen.md) 
   - [Hauptverantwortliche](Organisation/Rolle-Hauptverantwortliche.md)
   - [Fachverantwortliche](Organisation/Rolle-Fachverantwortliche.md)
   - [IT-Abteilung](Organisation/Rolle-IT-Abteilung.md)
@@ -117,6 +79,47 @@ graph LR
   - [Personalrat](Organisation/Rolle-Personalrat.md)
   - [DSB](Organisation/Rolle-DSB.md)
   - [DSK](Organisation/Rolle-DSK.md)
+  - O.1.2 - [Dienstanweisung](Organisation/Dienstanweisung.md) 
+  - O.1.2.1 - [Dienstanweisung Datenschutz](Organisation/Dienstanweisung-Datenschutz.md)
+  - O.1.2.2 - [Spezielle Dienstanweisungen](Organisation/Spezielle-Dienstanweisungen.md)
+- O.2. [Ablauforganisation]
+- O.2.P. - [Prozesse](Organisation/Prozesse.md) 
+  - O.2.P.X - [Widerspruch](Organisation/Prozess-Widerspruch.md)
+  - O.2.P.X - [Allgemeines Datenschutzmanagement](allgemeines-datenschutzmanagement/index.de) 
+    - [Personal](Organisation/Prozess-Personalmanagement.md) 
+      - [Belehrung](Organisation/Prozess-Belehrung.md) 
+        - Verpflichtung
+        - Onboarding
+        - Offboarding
+      - [Schulung](Organisation/Prozess-Schulung.md)
+  - O.2.P.X - [Auskunft](Organisation/Prozess-Auskunft.md)
+  - O.2.P.X - [Berichtigung](Organisation/Prozess-Berichtigung.md)
+  - O.2.P.X - [Löschung](Organisation/Prozess-Loeschung.md)
+  - O.2.P.X - [Einschränkung](Organisation/Prozess-Einschraenkung.md)
+  - O.2.P.X - [Widerspruch](Organisation/Prozess-Widerspruch.md)
+  - O.2.P.X - [Data Breach](Organisation/Prozess-Data-Breach.md)
+  - O.2.P.X - [LfD-Verfahren](Organisation/Prozess-LfD-Verfahren.md)
+  - O.2.P.X - [Unterlassung](Organisation/Prozess-Unterlassung.md)
+  - O.2.P.X - [Schadensersatz](Organisation/Prozess-Schadensersatz.md)
+  - O.2.P.X - [Erstellung des Verzeichnisses der Verarbeitungstätigketen](Organisation/Prozess-VVT-Erstellung.md)
+  - O.2.P.X - [Erstellung der Risikoanalyse](Organisation/Prozess-Risikoanalyse.md)
+  - O.2.P.X - [Erstellung der Datenschutz-Folgenabschätzung](Organisation/Prozess-DSFA.md)
+  - O.2.P.X - [Prozess - Einführung eines IT-Verfahrens](/Organisation/Prozess-Einf%C3%BChrung-IT-Verfahren.md)
+- O.2.D - [Dokumentation](Organisation/Dokumentation.md) 
+- O.TOM - [[TOM]](Organisation/Prozess-TOM.md) 
+  - 0.TOM.1 [Verträge](Organisation/Vertraege.md) 
+    - 0.TOM.1.1 - [Dienstleistungsvertrag](Organisation/Dienstleistungsvertrag.md)
+    - 0.TOM.1.2 - [Kooperationsvertrag](Organisation/Kooperationsvertrag.md)
+    - 0.TOM.1.3 - [EVB](Organisation/EVB-IT.md)
+    - 0.TOM.1.4 - [Vertrag zur Auftragsverarbeitung](/Organisation/Vertrag-Auftragsverarbeitung.md)
+    - 0.TOM.1O.5 - [Vertrag zur Gemeinsamen Datenverarbeitung](Organisation/Vertrag-Gemeinsame-Verantwortung.md)
+  - O.TOM.2 - [Informationspflichten](Organisation/Informationspflichten.md)
+  - O.TOM.3 - [Datenschutzerklärung](Organisation/Datenschutzerklaerung.md)
+  - O.TOM.X - [Pseudonymisierung](Organisation/Pseudonymisierung.md)
+- O.DienstV - [Dienstvereinbarung](Organisation/Dienstvereinbarungen.md) 
+  - O.DienstV.1 - [Rahmendienstvereinbarung EDV](Organisation/Rahmendienstvereinbarung-EDV.md)
+  - O.DienstV.2 - [Spezielle Dienstvereinbarungen](Organisation/Spezielle-Dienstvereinbarungen.md)
+
 
 # Anhänge
 
