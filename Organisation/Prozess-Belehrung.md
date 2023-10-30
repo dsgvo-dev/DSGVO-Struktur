@@ -35,5 +35,6 @@
 - Art. 32 Abs. 4 DSGVO
 ### 4.2. Urteile
 ### 4.3. Dokumente der Datenschutzaufsicht
+- [Kurzpapier Nr. 19 Unterrichtung und Verpflichtung von Beschäftigten auf Beachtung der datenschutzrechtlichen Anforderungen nach der DS-GVO](https://www.datenschutzkonferenz-online.de/media/kp/dsk_kpnr_19.pdf)
 ### 4.4. Sonstige Unterlagen
 ### 4.5. BSI-Referenz

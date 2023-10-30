@@ -35,5 +35,7 @@
 ### 4.1. Gesetze
 ### 4.2. Urteile
 ### 4.3. Dokumente der Datenschutzaufsicht
+- [DSK Kurzpapier Nr. 5
+Datenschutz-Folgenabschätzung nach Art. 35 DS-GVO](https://www.datenschutzkonferenz-online.de/media/kp/dsk_kpnr_5.pdf)
 ### 4.4. Sonstige Unterlagen
 ### 4.5. BSI-Referenz

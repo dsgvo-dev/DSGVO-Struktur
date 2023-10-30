@@ -18,5 +18,7 @@
 - § 8 NDSG
 ### 4.2. Urteile
 ### 4.3. Dokumente der Datenschutzaufsicht
+- [DSK Kurzpapier Nr. 10
+Informationspflichten bei Dritt- und Direkterhebung](https://www.datenschutzkonferenz-online.de/media/kp/dsk_kpnr_10.pdf)
 ### 4.4. Sonstige Unterlagen
 ### 4.5. BSI-Referenz

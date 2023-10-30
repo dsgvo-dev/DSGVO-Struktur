@@ -31,9 +31,7 @@
 ### 4.2. Urteile
 ### 4.3. Dokumente der Datenschutzaufsicht
 - [Working Paper 243; Leitlinien in Bezug auf Datenschutzbeauftragte („DSB“)](https://www.datenschutzkonferenz-online.de/media/wp/20170405_wp243_rev01.pdf)
-- [Datenschhutzkonferenz Kurzpapier Nr. 12
-Datenschutzbeauftragte bei Verantwortlichen und
-Auftragsverarbeitern](https://www.datenschutzkonferenz-online.de/media/kp/dsk_kpnr_12.pdf)
+- [DSK Kurzpapier Nr. 12 Datenschutzbeauftragte bei Verantwortlichen und Auftragsverarbeitern](https://www.datenschutzkonferenz-online.de/media/kp/dsk_kpnr_12.pdf)
 - [LfD Niedersachsen Hinweise DSB](https://lfd.niedersachsen.de/download/120512/Aufgaben_DSB.pdf)
 - [LfD Niedersachsen Muster Bestellungsschreiben DSB](https://lfd.niedersachsen.de/startseite/themen/datenschutzbeauftragte/betriebliche_datenschutzbeauftragte/betriebliche-datenschutzbeauftragte-87291.html)
 - [LfD Niedersachsen Benennung Checkliste](https://lfd.niedersachsen.de/download/120511)

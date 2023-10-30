@@ -27,5 +27,6 @@
 - Pseudonymsierung; Identfizierbarkeit: EuG, Urt. vom 26.04.2023, T‑557/20, https://curia.europa.eu/juris/document/document.jsf?text=&docid=272910&pageIndex=0&doclang=DE&mode=req&dir=&occ=first&part=1; siehe EuGH, https://curia.europa.eu/juris/document/document.jsf?text=&docid=276483&pageIndex=0&doclang=DE&mode=req&dir=&occ=first&part=1 
 - Personenbezogene Daten; IP-Adressen: EuGH, Urteil vom 19.10.2016, Breyer (C‑582/14, EU:C:2016:779), https://curia.europa.eu/juris/liste.jsf?language=de&num=C-582/14
 ### 4.3. Dokumente der Datenschutzaufsicht
+- [DSK Kurzpapier Nr. 17 Besondere Kategorien personenbezogener Daten](https://www.datenschutzkonferenz-online.de/media/kp/dsk_kpnr_17.pdf)
 ### 4.4. Sonstige Unterlagen
 ### 4.5. BSI-Referenz

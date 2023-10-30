@@ -32,6 +32,8 @@
 ### Gesetze
 ### Urteile
 ### 4.3. Dokumente der Datenschutzaufsicht
+- [DSK Kurzpapier Nr. 1
+Verzeichnis von Verarbeitungstätigkeiten](https://www.datenschutzkonferenz-online.de/media/kp/dsk_kpnr_1.pdf)
 - [LfD Sachsen-Anhalt](https://datenschutz.sachsen-anhalt.de/informationen/internationales/datenschutz-grundverordnung/verzeichnis-der-verarbeitungstaetigkeiten-nach-artikel-30-ds-gvo)
 - [LfD Rheinland-Pfalz](https://www.baden-wuerttemberg.datenschutz.de/wp-content/uploads/2021/11/211129_Arbeitshilfe_VV_und_Loeschkonzept_Tabelle-mit-Bsp-Bewerberdaten.xlsx)
 ### Sonstige Unterlagen

@@ -13,6 +13,7 @@
 - Art. 26 DSGVO
 ### 4.2. Urteile
 ### 4.3. Dokumente der Datenschutzaufsicht
+- [DSK Kurzpapier Nr. 16 Gemeinsam für die Verarbeitung Verantwortliche, Art. 26 DSGVO](https://www.datenschutzkonferenz-online.de/media/kp/dsk_kpnr_16.pdf)
 ### 4.4. Sonstige Unterlagen
 ### 4.5. BSI-Referenz
 
