@@ -35,5 +35,7 @@
 ### 4.1. Gesetze
 ### 4.2. Urteile
 ### 4.3. Dokumente der Datenschutzaufsicht
+[EDSA Guidelines 9/2022 on personal data breach notification under GDPR](https://edpb.europa.eu/our-work-tools/our-documents/guidelines/guidelines-92022-personal-data-breach-notification-under_de)
+[EDSA Leitlinien 01/2021 zu Beispielen für die Meldung von Verletzungen des Schutzes personenbezogener Daten](https://edpb.europa.eu/our-work-tools/our-documents/guidelines/guidelines-012021-examples-regarding-personal-data-breach_de)
 ### 4.4. Sonstige Unterlagen
 ### 4.5. BSI-Referenz

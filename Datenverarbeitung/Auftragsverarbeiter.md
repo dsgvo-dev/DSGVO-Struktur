@@ -19,6 +19,7 @@
 - § 24 Nr. 7 DSGVO
 ### 4.2. Urteile
 ### 4.3. Dokumente der Datenschutzaufsicht
+- [EDSA Leitlinien zu den Begriffen „Verantwortlicher“ und „Auftragsverarbeiter“ in der DSGVO](https://edpb.europa.eu/our-work-tools/our-documents/guidelines/guidelines-072020-concepts-controller-and-processor-gdpr_de)
 ### 4.4. Sonstige Unterlagen
 ### 4.5. BSI-Referenz
 

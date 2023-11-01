@@ -16,6 +16,7 @@
 - § 51 NDSG
 ### 4.2. Urteile
 ### 4.3. Dokumente der Datenschutzaufsicht
+- [EDSA Guidelines 01/2022 on data subject rights - Right of access](https://edpb.europa.eu/our-work-tools/our-documents/guidelines/guidelines-012022-data-subject-rights-right-access_de)
 - [DSK Kurzpapier Nr. 6
 Auskunftsrecht der betroffenen Person, Art. 15 DS-GVO](https://www.datenschutzkonferenz-online.de/media/kp/dsk_kpnr_6.pdf)
 ### 4.4. Sonstige Unterlagen

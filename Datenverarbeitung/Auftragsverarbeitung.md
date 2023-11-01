@@ -19,6 +19,7 @@
 - § 45 NDSG
 ### 4.2. Urteile
 ### 4.3. Dokumente der Datenschutzaufsicht
+- [EDSA Leitlinien zu den Begriffen „Verantwortlicher“ und „Auftragsverarbeiter“ in der DSGVO](https://edpb.europa.eu/our-work-tools/our-documents/guidelines/guidelines-072020-concepts-controller-and-processor-gdpr_de)
 - [DSK Kurzpapier Nr. 13 Auftragsverarbeitung, Art. 28 DS-GVO](https://www.datenschutzkonferenz-online.de/media/kp/dsk_kpnr_13.pdf)
 - [FAQ Liste LDA Bayern](https://www.lda.bayern.de/media/FAQ_Abgrenzung_Auftragsverarbeitung.pdf)
 - [LfD Bayern Orientierungshilfe Auftragsverarbeitung](https://www.datenschutz-bayern.de/technik/orient/oh_auftragsverarbeitung.pdf)
