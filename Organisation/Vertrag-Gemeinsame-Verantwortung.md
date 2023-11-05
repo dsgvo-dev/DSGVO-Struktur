@@ -20,7 +20,7 @@
 - § 44 NDSG
 ### 4.2. Urteile
 ### 4.3. Dokumente der Datenschutzaufsicht
-- [LfD Bayern](https://www.baden-wuerttemberg.datenschutz.de/wp-content/uploads/2019/05/190521_Vertragsmuster-Art-26.docx)
+- [LfD Baden-Württemberg](https://www.baden-wuerttemberg.datenschutz.de/mehr-licht-gemeinsame-verantwortlichkeit-sinnvoll-gestalten/)
 - [Bayerisches Staatsministerium des Inneren](https://www.stmi.bayern.de/assets/stmi/sus/datensicherheit/muster_einer_vereinbarung_zur_regelung_gemeinsamer_verantwortlichkeit.docx)
 ### 4.4. Sonstige Unterlagen
 - [Mustervertrag GDD](https://www.gdd.de/downloads/praxishilfen/GDDPraxishilfe_15_JointControllership_1.0.pdf)

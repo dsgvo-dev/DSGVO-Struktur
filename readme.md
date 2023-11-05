@@ -38,7 +38,7 @@ graph LR
 - DV.5.7 - [Datenübermittlung](Datenverarbeitung/Uebermittlung.md)
 - DV.5.8 - [Verbreitung](Datenverarbeitung/Verbreitung.md)
 - DV.5.9 - [Verknüpfung](Datenverarbeitung/Verknuepfung.md)
-- DV.5.10 - [Einschränkung](Datenverarbeitung/Einschraenkung.md)
+- DV.5.10 - [Einschränkung](Datenverarbeitung/Einschränkung.md)
 - DV.5.11 - [Löschung](Datenverarbeitung/Loeschung.md)
 
 ## DV.6 - [Verarbeitungstätigkeit](Datenverarbeitung/Verarbeitungstaetigkeit.md)
