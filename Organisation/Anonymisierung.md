@@ -6,7 +6,7 @@
 - Abzugrenzen ist die Anonymisierung von der [Pseudonymisierung](../Datenverarbeitung/Pseudonymisierung.md).
 ## 2. Verbindungen
 ### 2.1. Verbindungen zur Datenverarbeitung
-- [Pseudonymisierung](../Datenverarbeitung/Pseudonymisierung.md)
+- [Pseudonymisierung](../Organisation/Pseudonymisierung.md)
 ### 2.2. Verbindungen zu Grundsätzen der Datenverarbeitung
 ### 2.3. Verbindungen zur Organisation des Datenschutzes
 #### Verbindungen zu anderen Maßnahmen
