@@ -5,6 +5,7 @@
   - [Leitlinie Datenschutz](../Organisation/Leitlinie-Datenschutz.md)
   - [Dienstanweisung Datenschutz](../Organisation/Dienstanweisung-Datenschutz.md)
   - [Spezielle Dienstanweisungen](../Organisation/Spezielle-Dienstanweisungen.md)
+- Die Gesamtheit der Regelungen und Prozess wird als [Datenschutzmanagement-System (DSMS)](../Organisation/DSMS.md) bezeichnet.
 ## 2. Verbindungen
 ### 2.1. Verbindungen zur Datenverarbeitung
 ### 2.2. Verbindungen zu Grundsätzen der Datenverarbeitung
