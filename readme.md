@@ -79,7 +79,7 @@ graph LR
   - O.1.R.7 [Personalrat](Organisation/Rolle-Personalrat.md)
   - O.1.R.8 [DSB](Organisation/Rolle-DSB.md)
   - O.1.R.9 [DSK](Organisation/Rolle-DSK.md)
-- O.1.DA - [Dienstanweisung](Organisation/Dienstanweisung.md) 
+- O.1.DA - [Dienstanweisung](Organisation/Dienstanweisung.md)
   - O.1.DA.1 - [Dienstanweisung Datenschutz](Organisation/Dienstanweisung-Datenschutz.md)
   - O.1.DA.2 - [Spezielle Dienstanweisungen](Organisation/Spezielle-Dienstanweisungen.md)
 - O.2. [Ablauforganisation]

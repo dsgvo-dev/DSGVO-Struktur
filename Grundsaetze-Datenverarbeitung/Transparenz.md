@@ -14,5 +14,6 @@
 - Pflichten aus Artt. 12 ff. DSGVO
 ### 4.2. Urteile
 ### 4.3. Dokumente der Datenschutzaufsicht
+- [Guidelines on Transparency under Regulation 2016/679 (wp260rev.01)](https://ec.europa.eu/newsroom/article29/items/622227)
 ### 4.4. Sonstige Unterlagen
 ### 4.5. BSI-Referenz

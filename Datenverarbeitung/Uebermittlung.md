@@ -15,5 +15,10 @@
 - §§ 67d ff. SGB X 
 ### 4.2. Urteile
 ### 4.3. Dokumente der Datenschutzaufsicht
+- [Leitlinien 2/2020 zu Artikel 46 Absatz 2 Buchstabe a und
+Absatz 3 Buchstabe b der Verordnung (EU) 2016/679 für die
+Übermittlung personenbezogener Daten zwischen Behörden
+und öffentlichen Stellen im EWR und Behörden und
+öffentlichen Stellen außerhalb des EWR](https://edpb.europa.eu/system/files/2021-05/edpb_guidelines_202002_art46guidelines_internationaltransferspublicbodies_v2_de.pdf)
 ### 4.4. Sonstige Unterlagen
 ### 4.5. BSI-Referenz

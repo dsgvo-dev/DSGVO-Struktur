@@ -11,6 +11,7 @@
 - Art. 25 Abs. 1 DSGVO
 ### 4.2. Urteile
 ### 4.3. Dokumente der Datenschutzaufsicht
+- [Guidelines 4/2019 on Article 25 Data Protection by Design and by Default](https://edpb.europa.eu/our-work-tools/our-documents/guidelines/guidelines-42019-article-25-data-protection-design-and_de)
 ### 4.4. Sonstige Unterlagen
 - ISO 31700
 	- https://www.itworldcanada.com/article/privacy-by-design-to-become-an-iso-standard-next-month/521415

@@ -35,6 +35,10 @@
 ### 4.1. Gesetze
 ### 4.2. Urteile
 ### 4.3. Dokumente der Datenschutzaufsicht
+- [Empfehlung 01/2019 zu der vom Europäischen
+Datenschutzbeauftragten entworfenen Liste der
+Verarbeitungsvorgänge, für die eine Datenschutz- Folgenabschätzung durchzuführen ist (Artikel 39 Absatz 4
+der Verordnung (EU) 2018/1725)](https://edpb.europa.eu/sites/default/files/files/file1/edpb_recommendation_201901_edps_39.4_dpia_list_de.pdf)
 - [DSK Kurzpapier Nr. 5
 Datenschutz-Folgenabschätzung nach Art. 35 DS-GVO](https://www.datenschutzkonferenz-online.de/media/kp/dsk_kpnr_5.pdf)
 ### 4.4. Sonstige Unterlagen
