@@ -12,7 +12,6 @@ graph LR
     ds --- gr --- org
 ```
 
-
 # Datenverarbeitung (DV)
 
 ## DV.1 - [Verantwortliche](Datenverarbeitung/Verantwortliche.md)
@@ -108,12 +107,12 @@ graph LR
   -  O.2.P.X - [Prozess Verpflichtungsgesetz](Organisation/Prozess-Verpflichtungsgesetz.md) 
 - O.TOM - [[TOM]](Organisation/Prozess-TOM.md)
   - O.TOM.O [Organisatorische Maßnahmen](Organisation/Organisatorische-Massnahmen.md)
-    - 0.TOM.O.1 [Verträge](Organisation/Vertraege.md) 
-      - 0.TOM.O.1.1 - [Dienstleistungsvertrag](Organisation/Dienstleistungsvertrag.md)
-      - 0.TOM.O.1.2 - [Kooperationsvertrag](Organisation/Kooperationsvertrag.md)
-      - 0.TOM.O.1.3 - [EVB](Organisation/EVB-IT.md)
-      - 0.TOM.O.1.4 - [Vertrag zur Auftragsverarbeitung](/Organisation/Vertrag-Auftragsverarbeitung.md)
-      - 0.TOM.O.1.5 - [Vertrag zur Gemeinsamen Datenverarbeitung](Organisation/Vertrag-Gemeinsame-Verantwortung.md)
+    - O.TOM.O.1 [Verträge](Organisation/Vertraege.md) 
+      - O.TOM.O.1.1 - [Dienstleistungsvertrag](Organisation/Dienstleistungsvertrag.md)
+      - O.TOM.O.1.2 - [Kooperationsvertrag](Organisation/Kooperationsvertrag.md)
+      - O.TOM.O.1.3 - [EVB](Organisation/EVB-IT.md)
+      - O.TOM.O.1.4 - [Vertrag zur Auftragsverarbeitung](/Organisation/Vertrag-Auftragsverarbeitung.md)
+      - O.TOM.O.1.5 - [Vertrag zur Gemeinsamen Datenverarbeitung](Organisation/Vertrag-Gemeinsame-Verantwortung.md)
     - O.TOM.O.2 - [Informationspflichten](Organisation/Informationspflichten.md)
     - O.TOM.O.3 - [Datenschutzerklärung](Organisation/Datenschutzerklaerung.md)
     - O.TOM.O.X - [Pseudonymisierung](Organisation/Pseudonymisierung.md)
