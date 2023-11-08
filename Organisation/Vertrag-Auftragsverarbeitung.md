@@ -8,6 +8,7 @@ Im Fall der [Auftragsverarbeitung](../Datenverarbeitung/Auftragsverarbeitung.md)
 - [Technische und organisatorische Maßnahmen](../Organisation/TOM.md)
 #### Verbindungen zu anderen Maßnahmen
 #### Verbindungen zu anderen Prozessen
+- [Verträge](../Organisation/Vertraege.md)
 ## 3. Beteiligte Rollen
 - [Auftragsverarbeiter](../Organisation/Rolle-Auftragsverarbeiter.md)
 - [Fachverantwortliche](../Organisation/Rolle-Fachverantwortliche.md) 

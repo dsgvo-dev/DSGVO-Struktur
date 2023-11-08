@@ -9,6 +9,31 @@
 #### Verbindungen zu anderen Maßnahmen
 #### Verbindungen zu anderen Prozessen
 ## 3. Beteiligte Rollen
+
+#### RASCI Modell vereinfacht
+
+| RASCI | Rolle |
+| :---: | :----------------: |
+| -  | [Fachverantwortliche](../Organisation/Rolle-Fachverantwortliche.md)   |
+| -  | [Hauptverantwortliche](../Organisation/Rolle-Hauptverantwortliche.md) |
+| -  | [Datenschutzbeauftragte](../Organisation/Rolle-DSB.md) |
+| -  | [Datenschutzkoordinator*innen](../Organisation/Rolle-DSK.md) |
+| -  | [Informationssicherheitsbeauftragte](../Organisation/Rolle-ISB.md)|
+| -  | [IT-Abteilung](../Organisation/Rolle-IT-Abteilung.md) |
+| -  | [Auftragsverarbeiter](../Organisation/Rolle-Auftragsverarbeiter.md) |
+| -  | [Organisationsabteilung](../Organisation/Rolle-Organisationsabteilung.md) |
+| -  | [Personalabteilung](../Organisation/Rolle-Personalabteilung.md) |
+| -  | [Personalrat](../Organisation/Rolle-Personalrat.md) |
+| -  | [Rechtsabteilung](../Organisation/Rolle-Rechtsabteilung.md)|
+
+- Die Prozesse werden nach der RASCI-Methode dargestellt. Jeder Teilprozess wird einer Rolle mit der Bemerkung
+  - Responsible (R) - Durchführungsverantwortung, 
+  - Accountable (A) Kosten- bzw- Gesamtverantwortung, 
+  - Support (S) - Unterstützung,
+  - Consulted (C) - Konsultation, 
+  - Informed (I) - Informationsrecht
+  zugewiesen (siehe dazu den Artikel in [Wikipedia](https://de.wikipedia.org/wiki/RACI)).
+  
 ## 4. Dokumente
 ### 4.1. Gesetze
 ### 4.2. Urteile

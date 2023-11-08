@@ -5,6 +5,9 @@
 ### 2.3. Verbindungen zur Organisation des Datenschutzes
 #### Verbindungen zu anderen Maßnahmen
 #### Verbindungen zu anderen Prozessen
+- [Prozess Personalmanagement](../Organisation/Prozess-Personalmanagement.md)
+- [Prozess Einstellung](../Organisation/Prozess-Einstellung.md)
+- [Prozess Beendigung](../Organisation/Prozess-Beendigung.md)
 ## 3. Beteiligte Rollen
 ## 4. Dokumente
 ### 4.1. Gesetze

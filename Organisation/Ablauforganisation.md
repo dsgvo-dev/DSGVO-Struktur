@@ -1,4 +1,3 @@
-
 ## 1. Allgemeines
 - Die Ablauforganisation der Verantwortlichen ist so auszurichten, dass sie die datenschutzrechtlichen Regelungen umsetzen kann. Als mögliche Instrumente kommen im öffentlichen Bereich in Betracht:
     - [Prozesse](../Organistion/Prozesse.md)

@@ -22,12 +22,12 @@
 - OVG Lüneburg, Beschl. v. 22.07.2020, 11 LA 104/19, https://voris.wolterskluwer-online.de/browse/document/decef11f-f8c8-44b8-8efd-6a994daa97d5
 - OLG Düsseldorf, 28.10.2021, 16 U 275/20, www.justiz.nrw.de; Einwilligung in Verzicht TOM Verschlüsselung von E-Mail möglich
 ### 4.3. Dokumente der Datenschutzaufsicht
-- LfD Niedersachsen - ZAWAS; https://lfd.niedersachsen.de/startseite/themen/technik_und_organisation/orientierungshilfen_und_handlungsempfehlungen/zawas/praxisnahe-hilfe-zum-technisch-organisatorischen-datenschutz-173395.html
-- LDA Bayern - Checkliste; https://www.lda.bayern.de/media/checkliste/baylda_checkliste_tom.pdf
-- NIST - The NIST Privacy Framework: A Tool for Improving Privacy through Enterprise Risk Management, https://www.nist.gov/privacy-framework/privacy-framework
-- NIST - Security and Privacy Controls for Information Systems and Organizations; https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final
-- enisa - Handbook on Security of Personal Data Processing; https://www.enisa.europa.eu/publications/handbook-on-security-of-personal-data-processing
+- [LfD Niedersachsen - ZAWAS](https://lfd.niedersachsen.de/startseite/themen/technik_und_organisation/orientierungshilfen_und_handlungsempfehlungen/zawas/praxisnahe-hilfe-zum-technisch-organisatorischen-datenschutz-173395.html)
+- [LDA Bayern - Checkliste](https://www.lda.bayern.de/media/checkliste/baylda_checkliste_tom.pdf)
+- [NIST - The NIST Privacy Framework: A Tool for Improving Privacy through Enterprise Risk Management](https://www.nist.gov/privacy-framework/privacy-framework)
+- [NIST - Security and Privacy Controls for Information Systems and Organizations](https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final)
+- [enisa - Handbook on Security of Personal Data Processing](https://www.enisa.europa.eu/publications/handbook-on-security-of-personal-data-processing)
 ### 4.4. Sonstige Unterlagen
-ID2; https://id2.nsi-hsvn.de/downloads/
+- [ID2 AG Datenschutz Praxisdokumente](https://id2.nsi-hsvn.de/downloads/)
 ### 4.5. BSI-Referenz
 - Maßnahmen nach dem [BSI-Grundschutz](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Standards-und-Zertifizierung/IT-Grundschutz/it-grundschutz_node.html)

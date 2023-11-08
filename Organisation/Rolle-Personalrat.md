@@ -12,7 +12,7 @@
 ## 4. Dokumente
 ### 4.1. Gesetze
 ### 4.2. Urteile
-- Urteil des BAG zum Datenschutzkonzept
+- BAG, [Urt.vom 09.05.2023, 1 ABR 14/22](https://www.bundesarbeitsgericht.de/entscheidung/1-abr-14-22/); u.a. zum Datenschutzkonzept eines Betriebsrats
 ### 4.3. Dokumente der Datenschutzaufsicht
 ### 4.4. Sonstige Unterlagen
 ### 4.5. BSI-Referenz

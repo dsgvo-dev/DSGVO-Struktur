@@ -6,6 +6,9 @@
 ### 2.3. Verbindungen zur Organisation des Datenschutzes
 #### Verbindungen zu anderen Maßnahmen
 #### Verbindungen zu anderen Prozessen
+- [Prozess der VVT-Erstellung](../Organisation/Prozess-VVT-Erstellung.md)
+- [Prozess DSFA](../Organisation/Prozess-DSFA.md)
+- [Dokumentation](../Organisation/Dokumentation.md)
 ### 3. Beteiligte Rollen
 
 #### RASCI Modell vereinfacht
@@ -36,6 +39,7 @@
 ### 4.1. Gesetze
 ### 4.2. Urteile
 ### 4.3. Dokumente der Datenschutzaufsicht
+- [LfD Niedersachsen Prüfschema: Muss ich eine Datenschutz-Folgenabschätzung durchführen?](https://lfd.niedersachsen.de/startseite/themen/technik_und_organisation/orientierungshilfen_und_handlungsempfehlungen/prufschema_zur_erforderlichkeit_einer_datenschutz_folgenabschatzung/prufschema-muss-ich-eine-datenschutz-folgenabschatzung-durchfuhren-197199.html)
 - [Muster LfD Rheinland-Pfalz](https://www.datenschutz.rlp.de/de/themenfelder-themen/datenschutz-grundverordnung/datenschutz-folgenabschaetzung/)
 ### 4.4. Sonstige Unterlagen
 - [Working Paper (WP) 248 "Leitlinien zur Datenschutz-Folgenabschätzung (DSFA) und Beantwortung der Frage, ob eine Verarbeitung im Sinne der Verordnung 2016/679 „wahrscheinlich ein hohes Risiko mit sich bringt"](https://ec.europa.eu/newsroom/article29/items/611236)
