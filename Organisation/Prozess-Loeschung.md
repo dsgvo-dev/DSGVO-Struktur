@@ -38,5 +38,7 @@
 - [DSK Kurzpapier Nr. 11 Löschung](https://www.datenschutzkonferenz-online.de/media/kp/dsk_kpnr_11.pdf)
 - [Hinweise LfD Niedersachsen zu Löschfristen im öffentlichen Bereich](https://lfd.niedersachsen.de/startseite/themen/technik_und_organisation/festlegung_von_loschfristen_im_offentlichen_bereich/hilfestellungen-fuer-verantwortliche-bei-der-festlegung-von-loeschfristen-168232.html) 
 - [LfD Rheinland-Pfalz VVT-Muster mit Löschkonzept](https://www.baden-wuerttemberg.datenschutz.de/wp-content/uploads/2021/11/211129_Arbeitshilfe_VV_und_Loeschkonzept_Tabelle-mit-Bsp-Bewerberdaten.xlsx)
+- [	Ermittlung des Schutzbedarfs personenbezogener Daten für den Prozess der Datenträgervernichtung](https://www.datenschutz-mv.de/static/DS/Dateien/Publikationen/Broschueren/vernichtung.pdf)
 ### 4.4. Sonstige Unterlagen
+- [Hammer/ Schuler, Leitlinie zur Erstellung eines Löschkonzeptes mit Ableitung von Löschfristen für personenbezogene Daten (2022)](https://www.secorvo.de/publikationen/din-leitlinie-loeschkonzept-hammer-schuler.pdf)
 ### 4.5. BSI-Referenz
