@@ -43,7 +43,7 @@ graph LR
 ## DV.6 - [Verarbeitungstätigkeit](Datenverarbeitung/Verarbeitungstaetigkeit.md)
 
 - DV.6.1 [Schutzstufe](Datenverarbeitung/Schutzstufe.md)
-- DV.6.2 [Art, des Umfangs, der Umstände und der Zwecke der Verarbeitung]
+- DV.6.2 [Besonderheiten der Datenverarbeitung](Datenverarbeitung/Besonderheiten.md)
 - DV.6.X [Risiko](Datenverarbeitung/Risiko.md)
 
 # Grundsätze der Datenverarbeitung (G)
