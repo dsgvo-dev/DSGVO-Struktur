@@ -99,7 +99,7 @@ graph LR
   - O.2.P.X - [Prozess Unterlassung](Organisation/Prozess-Unterlassung.md)
   - O.2.P.X - [Prozess Schadensersatz](Organisation/Prozess-Schadensersatz.md)
   - O.2.P.X - [Prozess Schulung](Organisation/Prozess-Schulung.md)
-  - O.2.P.X - [Prozess Erstellung des Verzeichnisses der Verarbeitungstätigketen](Organisation/Prozess-VVT-Erstellung.md)
+  - O.2.P.X - [Prozess Erstellung des Verzeichnisses der Verarbeitungstätigkeiten](Organisation/Prozess-VVT-Erstellung.md)
   - O.2.P.X - [Prozess Erstellung der Risikoanalyse](Organisation/Prozess-Risikoanalyse.md)
   - O.2.P.X - [Prozess Erstellung der Datenschutz-Folgenabschätzung](Organisation/Prozess-DSFA.md)
   - O.2.P.X - [Prozess Einführung eines IT-Verfahrens](Organisation/Prozess-Einf%C3%BChrung-IT-Verfahren.md)

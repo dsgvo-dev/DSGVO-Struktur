@@ -2,6 +2,7 @@
 ## 2. Verbindungen
 ### 2.1. Verbindungen zur Datenverarbeitung
 - [Schutzstufe](../Datenverarbeitung/Schutzstufe.md)
+- [Besonderheiten der Datenverarbeitung](/Datenverarbeitung/Besonderheiten.md)
 ### 2.2. Verbindungen zu Grundsätzen der Datenverarbeitung
 ### 2.3. Verbindungen zur Organisation des Datenschutzes
 #### Verbindungen zu anderen Maßnahmen

@@ -16,7 +16,7 @@
 ## 4. Dokumente
 ### 4.1. Gesetze
 - Art. 4 Nr. 8 DSGVO
-- § 24 Nr. 7 DSGVO
+- § 24 Nr. 7 NDSG
 ### 4.2. Urteile
 ### 4.3. Dokumente der Datenschutzaufsicht
 - [EDSA Leitlinien zu den Begriffen „Verantwortlicher“ und „Auftragsverarbeiter“ in der DSGVO](https://edpb.europa.eu/our-work-tools/our-documents/guidelines/guidelines-072020-concepts-controller-and-processor-gdpr_de)

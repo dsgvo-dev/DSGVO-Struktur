@@ -23,6 +23,7 @@
 - [DSK Kurzpapier Nr. 13 Auftragsverarbeitung, Art. 28 DS-GVO](https://www.datenschutzkonferenz-online.de/media/kp/dsk_kpnr_13.pdf)
 - [FAQ Liste LDA Bayern](https://www.lda.bayern.de/media/FAQ_Abgrenzung_Auftragsverarbeitung.pdf)
 - [LfD Bayern Orientierungshilfe Auftragsverarbeitung](https://www.datenschutz-bayern.de/technik/orient/oh_auftragsverarbeitung.pdf)
+- [FAQ-Liste Der Landesbeauftragte für den Datenschutz und Informationsfreiheit Baden-Württemberg](https://www.baden-wuerttemberg.datenschutz.de/faq-zur-abgrenzung-der-verantwortlichkeiten-und-des-begriffs-der-auftragsverarbeitung/)
 ### 4.4. Sonstige Unterlagen
 ### 4.5. BSI-Referenz
 

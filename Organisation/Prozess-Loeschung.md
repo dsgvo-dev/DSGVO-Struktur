@@ -1,7 +1,9 @@
 ## 1. Allgemeines
 ## 2. Verbindungen
 ### 2.1. Verbindungen zur Datenverarbeitung
+- [Datenverarbeitung - Löschung](../Datenverarbeitung/Loeschung.md)
 ### 2.2. Verbindungen zu Grundsätzen der Datenverarbeitung
+- [Speicherbegrenzung](../Grundsaetze-Datenverarbeitung/Speicherbegrenzung.md)
 ### 2.3. Verbindungen zur Organisation des Datenschutzes
 #### Verbindungen zu anderen Maßnahmen
 #### Verbindungen zu anderen Prozessen

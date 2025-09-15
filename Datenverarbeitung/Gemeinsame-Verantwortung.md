@@ -15,6 +15,8 @@
 ### 4.2. Urteile
 ### 4.3. Dokumente der Datenschutzaufsicht
 - [DSK Kurzpapier Nr. 16 Gemeinsam für die Verarbeitung Verantwortliche, Art. 26 DSGVO](https://www.datenschutzkonferenz-online.de/media/kp/dsk_kpnr_16.pdf)
+- [Orientierungshilfe Gemeinsame Verantwortlichkeit - Der Bayerische Landesbeauftragte für den Datenschutz](https://www.datenschutz-bayern.de/infothek/OH_Gemeinsame_Verantwortlichkeit.pdf)
+- [Mustervertrag und Informationen Gemeinsame Verantwortlichkeit - Der Landesbeauftragte für den Datenschutz und Informationsfreiheit Baden-Württemberg](https://www.baden-wuerttemberg.datenschutz.de/mehr-licht-gemeinsame-verantwortlichkeit-sinnvoll-gestalten/)
 ### 4.4. Sonstige Unterlagen
 ### 4.5. BSI-Referenz
 
