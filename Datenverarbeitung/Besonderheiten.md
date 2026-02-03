@@ -1,8 +1,9 @@
 ## 1. Allgemeines
-- Über die in Art. 30 Abs. 1 DSGVO genannten Mindestinhalte eines Eintrages in das Verzeichnis der Verarbeitungstätigkeiten werden in den Artt. 24, 32 DSGVO und Erwägungsgründen 74 und 76 weitere Begrifflickhkeiten benannt, die (neben dem [Zweck](/Datenverarbeitung/Zweck.md)) innerhalb der [Risikoanalyse](/Organisation/Prozess-Risikoanalyse.md/) einbezogen werden müssen:
+- Über die in Art. 30 Abs. 1 DSGVO hinaus genannten Mindestinhalte eines Eintrages in das Verzeichnis der Verarbeitungstätigkeiten werden in den Artt. 24, 32 DSGVO und in den Erwägungsgründen 74 und 76 weitere Begrifflichkeiten benannt, die (neben dem [Zweck](/Datenverarbeitung/Zweck.md)) innerhalb der [Risikoanalyse](/Organisation/Prozess-Risikoanalyse.md/) einbezogen werden müssen:
   - Art
   - Umfang
   - Umstände
+  
   der Datenverarbeitung. Diese Begriffe werden innerhalb der DSGVO nicht definiert.
 
 ## 2. Verbindungen

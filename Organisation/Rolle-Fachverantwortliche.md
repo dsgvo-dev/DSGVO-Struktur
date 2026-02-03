@@ -2,6 +2,7 @@
 ## 2. Verbindungen
 ### 2.1. Verbindungen zur Datenverarbeitung
 - [Alleinige Verantwortung](../Datenverarbeitung/Alleinige-Verantwortung.md)
+- [Gemeinsame-Verantwortung](../Datenverarbeitung/Gemeinsame-Verantwortung.md)
 ### 2.2. Verbindungen zu Grundsätzen der Datenverarbeitung
 ### 2.3. Verbindungen zur Organisation des Datenschutzes
 #### Verbindungen zu anderen Maßnahmen
