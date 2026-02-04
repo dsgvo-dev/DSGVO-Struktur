@@ -8,11 +8,13 @@
 ### 2.3. Verbindungen zur Organisation des Datenschutzes
 #### Verbindungen zu anderen Maßnahmen
 #### Verbindungen zu anderen Prozessen
+- [Prozess VVT-Erstellung](../Organisation/Prozess-VVT-Erstellung.md)
 ## 3. Beteiligte Rollen
 ## 4. Dokumente
 ### 4.1. Gesetze
 - Art. 5 Abs. 1 lit. b) DSGVO
 - EG 39 Satz 6 DSGVO
+- § 6 NDSG
 ### 4.2. Urteile
 ### 4.3. Dokumente der Datenschutzaufsicht
 - LfD BW Exel-Liste der Auffälligen, 36. TB S. 90:

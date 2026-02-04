@@ -1,15 +1,19 @@
-## Allgemeines
-
-## Verbindungen
-### Datenverarbeitung
-### Grundsätze
-### Organisation
-### Maßnahmen
-### Prozesse
+## 1. Allgemeines
+- Die Erstellung des Verzeichnisses der Verarbeitungstätigkeiten ist eine gesetzliche Pflicht. Der Mindestinhalt ergibt sich aus Art. 30 DSGVO.
+- Einzutragen sind u.a. die Art der verarbeiteten Daten, die Kategorien der Betroffenen und auch der [Zweck](../Datenverarbeitung/Zweck.md) der Datenverarbeitung.
+## 2. Verbindungen
+### 2.1. Verbindungen zur Datenverarbeitung
+### 2.2. Verbindungen zu Grundsätzen der Datenverarbeitung
+### 2.3. Verbindungen zur Organisation des Datenschutzes
+#### Verbindungen zu anderen Maßnahmen
+#### Verbindungen zu anderen Prozessen
 - [Prozess Risikoanalyse](../Organisation/Prozess-Risikoanalyse.md)
 - [Prozess DSFA](../Organisation/Prozess-DSFA.md)
 - [Dokumentation](../Organisation/Dokumentation.md)
-### Rollen
+## 3. Beteiligte Rollen
+
+#### RASCI Modell vereinfacht
+
 | RASCI | Rolle |
 | :---: | :----------------: |
 | R  | [Fachverantwortliche](../Organisation/Rolle-Fachverantwortliche.md)   |
@@ -31,9 +35,9 @@
   - Informed (I) - Informationsrecht
   zugewiesen (siehe dazu den Artikel in [Wikipedia](https://de.wikipedia.org/wiki/RACI)).
   
-## Dokumente
-### Gesetze
-### Urteile
+## 4. Dokumente
+### 4.1. Gesetze
+### 4.2. Urteile
 ### 4.3. Dokumente der Datenschutzaufsicht
 - [DSK Kurzpapier Nr. 1
 Verzeichnis von Verarbeitungstätigkeiten](https://www.datenschutzkonferenz-online.de/media/kp/dsk_kpnr_1.pdf)
