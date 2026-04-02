@@ -1,3 +1,16 @@
+---
+id: "dsms-dsms-readme"
+type: fact
+canonical: true
+created: 2026-03-18
+modified: 2026-03-18
+confidence: unverified
+author: imported
+tags: [dsms, 2026]
+inject: on-demand
+priority: normal
+---
+
 # Datenschutz-Struktur
 
 Innerhalb der Datenschutzstruktur findet eine erste Unterteilung in drei Ebenen statt: Datenverarbeitung, Grundsätze der Datenverarbeitung und Organisation des Datenschutzes.
