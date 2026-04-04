@@ -8,6 +8,12 @@
     - Umfang der Verarbeitung
     - Umstände der Verarbeitung
     - Zweck der Verarbeitung
+
+Personenbezogene Daten - alle Informationen
+"Hierunter sind nach der Begriffsbestimmung dieser Vorschrift „alle Informationen [zu verstehen], die sich auf eine identifizierte oder identifizierbare natürliche Person … beziehen“, wobei klargestellt wird, dass „als identifizierbar … eine natürliche Person angesehen [wird], die direkt oder indirekt, insbesondere mittels Zuordnung zu einer Kennung wie einem Namen, zu einer Kennnummer, zu Standortdaten, zu einer Online-Kennung oder zu einem oder mehreren besonderen Merkmalen, die Ausdruck der physischen, physiologischen, genetischen, psychischen, wirtschaftlichen, kulturellen oder sozialen Identität dieser natürlichen Person sind, identifiziert werden kann“.
+
+49      Nach ständiger Rechtsprechung kommt nämlich darin, dass die Wendung „alle Informationen“ in der Definition des Begriffs „personenbezogene Daten“ in Art. 4 Nr. 1 DSGVO Verwendung findet, das Ziel des Unionsgesetzgebers zum Ausdruck, diesem Begriff eine weite Bedeutung beizumessen, die potenziell alle Arten von Informationen sowohl objektiver als auch subjektiver Natur in Form von Stellungnahmen oder Beurteilungen umfasst, unter der Voraussetzung, dass es sich um Informationen „über“ die in Rede stehende Person handelt. Es handelt sich um eine Information über eine identifizierte oder identifizierbare natürliche Person, wenn sie aufgrund ihres Inhalts, ihres Zwecks oder ihrer Auswirkungen mit einer identifizierbaren Person verknüpft ist (Urteil vom 3. April 2025, Ministerstvo zdravotnictví [Daten über den Vertreter einer juristischen Person], C‑710/23, EU:C:2025:231, Rn. 21 und die dort angeführte Rechtsprechung)." EuGH, Urt. v. 02.12.2025, C‑492/23, https://infocuria.curia.europa.eu/tabs/document?source=document&text=&docid=306764&pageIndex=0&doclang=DE&mode=req&dir=&occ=first&part=1. 
+
 ## 2. Verbindungen
 ### 2.1. Verbindungen zur Datenverarbeitung
 - Der Begriff der personenbezogenen Daten ist im Zusammenhang mit dem Begriff  der [Betroffenen](../Datenverarbeitung/Betroffene.md) zu sehen.

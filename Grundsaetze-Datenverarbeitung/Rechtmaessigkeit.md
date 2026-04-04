@@ -2,6 +2,7 @@
 - Definition: "Personenbezogene Daten müssen auf rechtmäßige Weise, nach Treu und Glauben und in einer für die betroffene Person nachvollziehbaren Weise verarbeitet werden („Rechtmäßigkeit, Verarbeitung nach Treu und Glauben, Transparenz“)." (Art. 5 Abs. 1 lit. a) DSGVO)
 - "Die personenbezogenen Daten sollten für die Zwecke, zu denen sie verarbeitet werden, angemessen und erheblich sowie auf das für die Zwecke ihrer Verarbeitung notwendige Maß beschränkt sein. Dies erfordert insbesondere, dass die Speicherfrist für personenbezogene Daten auf das unbedingt erforderliche Mindestmaß beschränkt bleibt. Personenbezogene Daten sollten nur verarbeitet werden dürfen, wenn der Zweck der Verarbeitung nicht in zumutbarer Weise durch andere Mittel erreicht werden kann." (EG 29 Satz 7 bis 9)
 - Die Verantwortlichen benötigen zur Verarbeitung der personenbezogenen Daten einer Rechtsgrundlage. Andernfalls ist eine Verarbeitung nicht erlaubt.
+- "81      Was die Voraussetzungen für die Rechtmäßigkeit der Verarbeitung angeht, so enthält, wie der Gerichtshof bereits entschieden hat, Art. 6 Abs. 1 Unterabs. 1 DSGVO eine erschöpfende und abschließende Liste der Fälle, in denen eine Verarbeitung personenbezogener Daten als rechtmäßig angesehen werden kann. Daher muss eine Verarbeitung unter einen der in dieser Bestimmung vorgesehenen Fälle subsumierbar sein (vgl. in diesem Sinne Urteil vom 9. Januar 2025, Mousse, C‑394/23, EU:C:2025:2, Rn. 25 und die dort angeführte Rechtsprechung)." EuGH, Urt. v. 02.12.2025, C‑492/23, https://infocuria.curia.europa.eu/tabs/document?source=document&text=&docid=306764&pageIndex=0&doclang=DE&mode=req&dir=&occ=first&part=1. 
 ## 2. Verbindungen
 ### 2.1. Verbindungen zur Datenverarbeitung
 ### 2.2. Verbindungen zu Grundsätzen der Datenverarbeitung
@@ -21,4 +22,3 @@
 ### 4.3. Dokumente der Datenschutzaufsicht
 ### 4.4. Sonstige Unterlagen
 ### 4.5. BSI-Referenz
-
