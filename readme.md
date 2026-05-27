@@ -105,8 +105,8 @@ graph LR
   - O.2.P.14 - [Prozess Einführung eines IT-Verfahrens](Organisation/Prozess-Einf%C3%BChrung-IT-Verfahren.md)
   - O.2.P.15 - [Prozess Vergabeverfahren](Organisation/Prozess-Vergabeverfahren.md)
   - O.2.P.16 - [Prozess Verpflichtungsgesetz](Organisation/Prozess-Verpflichtungsgesetz.md) 
-- O.TOM - [[TOM]](Organisation/Prozess-TOM.md)
-  - O.TOM.O [Organisatorische Maßnahmen](Organisation/Organisatorische-Massnahmen.md)
+|- O.TOM - [[TOM]](Organisation/Prozess-TOM.md)
+    - O.TOM.O [Organisatorische Maßnahmen](Organisation/Organisatorische-Massnahmen.md)
     - O.TOM.O.1 [Verträge](Organisation/Vertraege.md) 
       - O.TOM.O.1.1 - [Dienstleistungsvertrag](Organisation/Dienstleistungsvertrag.md)
       - O.TOM.O.1.2 - [Kooperationsvertrag](Organisation/Kooperationsvertrag.md)
@@ -122,6 +122,9 @@ graph LR
 - O.DienstV - [Dienstvereinbarung](Organisation/Dienstvereinbarungen.md) 
   - O.DienstV.1 - [Rahmendienstvereinbarung EDV](Organisation/Rahmendienstvereinbarung-EDV.md)
   - O.DienstV.2 - [Spezielle Dienstvereinbarungen](Organisation/Spezielle-Dienstvereinbarungen.md)
+|- O.Recht - [Rechtsrahmen](Organisation/Rechtsdurchsetzung.md)
+|  - O.Recht.1 - [Rechtsdurchsetzung](Organisation/Rechtsdurchsetzung.md)
+|  - O.Recht.2 - [Schadensersatzanspruch](Organisation/Schadensersatzanspruch.md)
 
 
 # Anhänge
